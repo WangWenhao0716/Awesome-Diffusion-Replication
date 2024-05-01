@@ -118,6 +118,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Outliers Memorized Last: Trends in Memorization of Diffusion Models Based on Training Distribution and Epoch**\
 [[Openreview 2024](https://openreview.net/forum?id=6ZuDeSHzjj)]
 
+**On the Generalization Properties of Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=hCUG1MCFk5)]
+
+
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
 [[ICMLW 2023](https://openreview.net/forum?id=WRpRPsU0VT)]
