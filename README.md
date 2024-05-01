@@ -87,6 +87,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **The Emergence of Reproducibility and Consistency in Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2310.05264)]
 
+**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**
+[[Arxiv 2023](https://arxiv.org/abs/2312.03692)]
 
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
@@ -127,8 +129,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Reinforcement Learning from Diffusion Feedback: Q\* for Image Search**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.15648)]
 
-**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**
-[[Arxiv 2023](https://arxiv.org/abs/2312.03692)]
 
 
 
