@@ -29,12 +29,15 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2301.09956)]
 
 **Are Diffusion Models Vulnerable to Membership Inference Attacks?**\
-[[
+[[ICML 2023](https://proceedings.mlr.press/v202/duan23b/duan23b.pdf)]
+[[Code](https://proceedings.mlr.press/v202/duan23b/duan23b.pdf)]
 
 **An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization**\
+[[ICLR 2024](https://openreview.net/forum?id=rpH9FcCEV6)]
+[[Code](https://github.com/kong13661/PIA)]
 
 **Membership Inference Attacks on Diffusion Models via Quantile Regression** \
-[]
+[[Arxiv 2023](https://arxiv.org/abs/2312.05140)]
 
 
 
