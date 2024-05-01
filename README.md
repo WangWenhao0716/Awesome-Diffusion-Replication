@@ -57,6 +57,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **On Copyright Risks of Text-to-Image Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.12803)]
 
+**The Journey, Not the Destination: How Data Guides Diffusion Models**\
+[[ICMLW 2023](https://openreview.net/pdf?id=9hK9NbUAex)]
+
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
