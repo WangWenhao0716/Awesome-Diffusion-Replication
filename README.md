@@ -64,6 +64,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**\
 [[NeurIPSW 2023](https://openreview.net/forum?id=20FxHX25aq)]
 
+**Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**
+[[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
+
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
