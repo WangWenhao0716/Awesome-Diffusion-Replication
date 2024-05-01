@@ -5,6 +5,12 @@ This repository contains a collection of papers on **memorization and replicatio
 
 ## Unveiling
 
+**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/somepago/DCR)] 
+
+
+
 ## Explanation
 
 ## Detection
