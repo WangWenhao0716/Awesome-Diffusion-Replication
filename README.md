@@ -28,6 +28,9 @@ This repository contains a collection of papers on **memorization and replicatio
 [[Code](https://github.com/somepago/DCR)] 
 
 ## Mitigation
+**Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
+[[ICMLW 2023](https://openreview.net/forum?id=WRpRPsU0VT)]
+
 
 ## Medical Data
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
