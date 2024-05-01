@@ -115,6 +115,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **The Files are in the Computer: Copyright, Memorization, and Generative AI**\
 [[Arxiv 2024](https://arxiv.org/abs/2404.12590)]
 
+**Outliers Memorized Last: Trends in Memorization of Diffusion Models Based on Training Distribution and Epoch**\
+[[Openreview 2024](https://openreview.net/forum?id=6ZuDeSHzjj)]
 
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
