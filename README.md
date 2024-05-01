@@ -71,7 +71,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2403.19593)]
 
 ## Understanding
-**Provable Copyright Protection for Generative Models.**\
+**Provable Copyright Protection for Generative Models**\
 [[ICML 2023](https://openreview.net/forum?id=qRAHZVnQNY)]
 
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
