@@ -109,6 +109,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
 
+**Towards Memorization-Free Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.00922)]
 
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
