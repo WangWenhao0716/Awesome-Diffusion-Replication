@@ -1,5 +1,5 @@
 # Awesome-Diffusion-Memorization-Replication
-This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into 4 aspects: **unveiling**, **reason**, **detection**, and **mitigation**.
+This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into 4 aspects: **unveiling**, **understanding**, **detection**, and **mitigation**.
 
 *Note that some papers may cover more than 1 aspect.*
 
@@ -11,10 +11,13 @@ This repository contains a collection of papers on **memorization and replicatio
 
 
 
-## Reason
+## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/somepago/DCR)] 
+
+**Understanding Data Replication in Diffusion Models**\
+[[ICMLW 2023](https://openreview.net/forum?id=F9qCNPSzSY)]
 
 ## Detection
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
