@@ -181,6 +181,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Consistent Diffusion Meets Tweedie: Training Exact Ambient Diffusion Models with Noisy Data**\
 [[Arxiv 2024](https://arxiv.org/abs/2404.10177)]
 
+**Unified Concept Editing in Diffusion Models**\
+[[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
