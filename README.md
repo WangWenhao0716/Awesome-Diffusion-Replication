@@ -185,6 +185,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf)]
 [[Project](https://unified.baulab.info)]
 
+**MITIGATE REPLICATION AND COPYING IN DIFFUSION MODELS WITH GENERALIZED**\
+[[ICASSP 2024](https://ieeexplore.ieee.org/document/10446820)]
+[[Code](https://github.com/HowardLi0816/dual-fusion-diffusion)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
