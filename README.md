@@ -54,6 +54,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICASSP 2024](https://ieeexplore.ieee.org/document/10447705)]
 [[Project](https://www.merl.com/research/highlights/auscultating-diffusion)]
 
+**On Copyright Risks of Text-to-Image Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.12803)]
 
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
