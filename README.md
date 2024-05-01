@@ -22,7 +22,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Code](https://github.com/somepago/DCR)] 
 
 **DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
-[[ICL 2024](https://openreview.net/forum?id=84n3UwkH7b)]
+[[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
 ## Understanding
@@ -37,7 +37,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICMLW 2023](https://openreview.net/forum?id=shciCbSk9h)]
 
 **DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
-[[ICL 2024](https://openreview.net/forum?id=84n3UwkH7b)]
+[[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
 ## Mitigation
@@ -45,8 +45,11 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICMLW 2023](https://openreview.net/forum?id=WRpRPsU0VT)]
 
 **DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
-[[ICL 2024](https://openreview.net/forum?id=84n3UwkH7b)]
+[[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
+
+**EXPLORING THE EFFECTIVENESS OF DIFFUSION MODELS IN ONE-SHOT FEDERATED LEARNING**\
+[[OpenReview 2024](https://openreview.net/forum?id=trCvBb8guo)]
 
 
 ## Medical Imaging
