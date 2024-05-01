@@ -42,6 +42,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Extracting Training Data from Diffusion Models**\
 [[Usenix 2023](https://www.usenix.org/system/files/usenixsecurity23-carlini.pdf)]
 
+**A Reproducible Extraction of Training Images from Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.08694)]
+[[Code](https://arxiv.org/abs/2305.08694)]
+
 
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
@@ -57,6 +61,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
 [[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
+
+**A Reproducible Extraction of Training Images from Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.08694)]
+[[Code](https://arxiv.org/abs/2305.08694)]
 
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
