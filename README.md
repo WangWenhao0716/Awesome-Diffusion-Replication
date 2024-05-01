@@ -1,5 +1,5 @@
 # Awesome-Diffusion-Memorization-Replication
-:fire::fire: This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into 3 aspects: **detection**, **understanding**, and **mitigation**. We also discuss such phenomenon in the application of diffusion models in **medical imaging**.
+:fire::fire: This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into 3 aspects: **detection**, **understanding**, and **mitigation**. We also discuss such phenomenon in **medical imaging**.
 
 *Note that some papers may cover more than 1 aspect.*
 
