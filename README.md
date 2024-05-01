@@ -130,6 +130,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 
 ## Mitigation
+**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Schramowski_Safe_Latent_Diffusion_Mitigating_Inappropriate_Degeneration_in_Diffusion_Models_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/ml-research/safe-latent-diffusion)]
+
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
 [[ICMLW 2023](https://openreview.net/forum?id=WRpRPsU0VT)]
 
