@@ -217,5 +217,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **UNCONDITIONAL LATENT DIFFUSION MODELS MEMORIZE PATIENT IMAGING DATA**\
 [[Arxiv 2023](https://arxiv.org/abs/2402.01054)]
 
+**Brain tumor segmentation using synthetic MR images - a comparison of GANs and diffusion models**\
+[[Scientific Data](https://www.nature.com/articles/s41597-024-03073-x)]
 
 
