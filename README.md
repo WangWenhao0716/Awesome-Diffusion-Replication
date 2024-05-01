@@ -127,6 +127,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Reinforcement Learning from Diffusion Feedback: Q\* for Image Search**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.15648)]
 
+**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**
+[[Arxiv 2023](https://arxiv.org/abs/2312.03692)]
+
 
 
 ## Medical Imaging
