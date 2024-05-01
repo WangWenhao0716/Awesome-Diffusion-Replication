@@ -25,6 +25,19 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
+**Membership Inference of Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2301.09956)]
+
+**Are Diffusion Models Vulnerable to Membership Inference Attacks?**\
+[[
+
+**An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization**\
+
+**Membership Inference Attacks on Diffusion Models via Quantile Regression** \
+[]
+
+
+
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
