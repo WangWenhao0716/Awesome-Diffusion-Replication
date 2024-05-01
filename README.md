@@ -96,6 +96,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2303.17591)]
 [[Code](https://github.com/SHI-Labs/Forget-Me-Not)]
 
+**Ambient Diffusion: Learning Clean Distributions from Corrupted Data**\
+[[NeurIPS 2023](https://openreview.net/pdf?id=wBJBLy9kBY)]
+
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
