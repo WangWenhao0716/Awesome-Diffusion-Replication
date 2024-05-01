@@ -46,9 +46,13 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2305.08694)]
 [[Code](https://arxiv.org/abs/2305.08694)]
 
-**DIAGNOSIS: DETECTING UNAUTHORIZED DATA US- AGES IN TEXT-TO-IMAGE DIFFUSION MODELS**\
+**DIAGNOSIS: DETECTING UNAUTHORIZED DATA USAGES IN TEXT-TO-IMAGE DIFFUSION MODELS**\
 [[ICLR 2024](https://openreview.net/forum?id=f8S3aLm0Vp)]
 [[Code](https://github.com/ZhentingWang/DIAGNOSIS)]
+
+**Generation or Replication: Auscultating Audio Latent Diffusion Models**\
+[[ICASSP 2024](https://ieeexplore.ieee.org/document/10447705)]
+[[Project](https://www.merl.com/research/highlights/auscultating-diffusion)]
 
 
 ## Understanding
