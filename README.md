@@ -78,6 +78,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2310.02664)]
 [[Code](https://github.com/sail-sg/DiffMemorize)]
 
+**The Emergence of Reproducibility and Consistency in Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2310.05264)]
+
 
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
