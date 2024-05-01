@@ -24,7 +24,8 @@ This repository contains a collection of papers on **memorization and replicatio
 ## Mitigation
 
 ## Medical Data
-
+**Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
+[[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
 
 # Contact
 
