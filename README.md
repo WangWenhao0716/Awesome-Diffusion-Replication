@@ -67,6 +67,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
 
+**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.19593)]
+
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
@@ -160,6 +163,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.14421)]
+
+**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.19593)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
