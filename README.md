@@ -70,6 +70,11 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2305.08694)]
 [[Code](https://arxiv.org/abs/2305.08694)]
 
+**GENERALIZATION IN DIFFUSION MODELS ARISES FROM GEOMETRY-ADAPTIVE HARMONIC REPRESENTATIONS**
+[[ICLR 2024](https://openreview.net/forum?id=ANvmVS2Yr0)]
+[[Code](https://github.com/LabForComputationalVision/memorization_generalization_in_diffusion_models)
+
+
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
 [[ICMLW 2023](https://openreview.net/forum?id=WRpRPsU0VT)]
