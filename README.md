@@ -1,5 +1,5 @@
 # Awesome-Diffusion-Memorization-Replication
-:fire::fire: This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into 4 aspects: **unveiling**, **understanding**, **detection**, and **mitigation**.
+:fire::fire: This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into 3 aspects: **detection**, **understanding**, and **mitigation**. We also discuss such phenomenon in the application of diffusion models in **medical imaging**.
 
 *Note that some papers may cover more than 1 aspect.*
 
@@ -16,14 +16,14 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
   year={2024}
 }
 ```
-
-## Unveiling
-
+## Detection
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/somepago/DCR)] 
 
-
+**DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
+[[ICL 2024](https://openreview.net/forum?id=84n3UwkH7b)]
+[[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
@@ -36,11 +36,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Diffusion Probabilistic Models Generalize when They Fail to Memorize**\
 [[ICMLW 2023](https://openreview.net/forum?id=shciCbSk9h)]
 
-## Detection
-**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
-[[Code](https://github.com/somepago/DCR)] 
-
 **DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
 [[ICL 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
@@ -48,6 +43,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
 [[ICMLW 2023](https://openreview.net/forum?id=WRpRPsU0VT)]
+
+**DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
+[[ICL 2024](https://openreview.net/forum?id=84n3UwkH7b)]
+[[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
 
 ## Medical Imaging
