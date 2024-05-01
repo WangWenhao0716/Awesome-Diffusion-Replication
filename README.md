@@ -98,5 +98,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Effect of Training Epoch Number on Patient Data Memorization in Unconditional Latent Diffusion Models**\
 [[BVMW](https://link.springer.com/chapter/10.1007/978-3-658-44037-4_27)]
 
+**BEWARE OF DIFFUSION MODELS FOR SYNTHESIZING MEDICAL IMAGES - A COMPARISON WITH GANS IN TERMS OF MEMORIZING BRAIN MRI AND CHEST X-RAY IMAGES**
+[[Arxiv 2023](https://arxiv.org/abs/2305.07644)]
+
 
 
