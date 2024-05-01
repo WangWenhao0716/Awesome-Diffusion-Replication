@@ -46,6 +46,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2305.08694)]
 [[Code](https://arxiv.org/abs/2305.08694)]
 
+**DIAGNOSIS: DETECTING UNAUTHORIZED DATA US- AGES IN TEXT-TO-IMAGE DIFFUSION MODELS**\
+[[ICLR 2024](https://openreview.net/forum?id=f8S3aLm0Vp)]
+[[Code](https://github.com/ZhentingWang/DIAGNOSIS)]
+
 
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
