@@ -159,5 +159,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **BEWARE OF DIFFUSION MODELS FOR SYNTHESIZING MEDICAL IMAGES - A COMPARISON WITH GANS IN TERMS OF MEMORIZING BRAIN MRI AND CHEST X-RAY IMAGES**\
 [[Arxiv 2023](https://arxiv.org/abs/2305.07644)]
 
+**UNCONDITIONAL LATENT DIFFUSION MODELS MEMORIZE PATIENT IMAGING DATA**\
+[[Arxiv 2023](https://arxiv.org/abs/2402.01054)]
+
 
 
