@@ -80,6 +80,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2303.12733)]
 [[Code](https://github.com/ryanwebster90/snip-dedup)]
 
+**Ablating Concepts in Text-to-Image Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Kumari_Ablating_Concepts_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf)]
+[[Code](https://github.com/nupurkmr9/concept-ablation)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
