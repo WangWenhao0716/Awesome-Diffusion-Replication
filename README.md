@@ -19,6 +19,9 @@ This repository contains a collection of papers on **memorization and replicatio
 **Understanding Data Replication in Diffusion Models**\
 [[ICMLW 2023](https://openreview.net/forum?id=F9qCNPSzSY)]
 
+**Diffusion Probabilistic Models Generalize when They Fail to Memorize**\
+[[ICMLW 2023](https://openreview.net/forum?id=shciCbSk9h)]
+
 ## Detection
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
