@@ -142,6 +142,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Reinforcement Learning from Diffusion Feedback: Q\* for Image Search**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.15648)]
 
+**EraseDiff: Erasing Data Influence in Diffusion Models**
+[[Arxiv 2024](https://arxiv.org/abs/2401.05779)]
 
 
 ## Medical Imaging
