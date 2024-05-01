@@ -158,6 +158,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
 
+**DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.14421)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
