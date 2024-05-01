@@ -61,6 +61,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICMLW 2023](https://openreview.net/pdf?id=9hK9NbUAex)]
 [[Code](https://github.com/MadryLab/journey-TRAK)]
 
+**The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**\
+[[NeurIPSW 2023](https://openreview.net/forum?id=20FxHX25aq)]
+
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
@@ -96,6 +99,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Understanding (Un)Intended Memorization in Text-to-Image Generative Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2312.07550)]
+
+
+
 
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
@@ -135,7 +141,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Reinforcement Learning from Diffusion Feedback: Q\* for Image Search**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.15648)]
-
 
 
 
