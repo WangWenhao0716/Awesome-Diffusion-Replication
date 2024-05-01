@@ -70,9 +70,13 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2305.08694)]
 [[Code](https://arxiv.org/abs/2305.08694)]
 
-**GENERALIZATION IN DIFFUSION MODELS ARISES FROM GEOMETRY-ADAPTIVE HARMONIC REPRESENTATIONS**
+**GENERALIZATION IN DIFFUSION MODELS ARISES FROM GEOMETRY-ADAPTIVE HARMONIC REPRESENTATIONS**\
 [[ICLR 2024](https://openreview.net/forum?id=ANvmVS2Yr0)]
-[[Code](https://github.com/LabForComputationalVision/memorization_generalization_in_diffusion_models)
+[[Code](https://github.com/LabForComputationalVision/memorization_generalization_in_diffusion_models)]
+
+**ON MEMORIZATION IN DIFFUSION MODELS**\
+[[Arxiv 2023](https://arxiv.org/abs/2310.02664)]
+[[Code](https://github.com/sail-sg/DiffMemorize)]
 
 
 ## Mitigation
