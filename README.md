@@ -1,5 +1,5 @@
 # Awesome-Diffusion-Memorization-Replication
-:fire::fire: This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into 3 aspects: **detection**, **understanding**, and **mitigation**. We also provide papers discussing such phenomena in **medical imaging**.
+:fire::fire: This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into 3 aspects: **unveiling**, **understanding**, and **mitigation**. We also provide papers discussing such phenomena in **medical imaging**.
 
 *Note that some papers may cover more than 1 aspect.*
 
@@ -16,7 +16,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
   year={2024}
 }
 ```
-## Detection
+## Unveiling
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/somepago/DCR)] 
@@ -68,6 +68,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **EXPLORING THE EFFECTIVENESS OF DIFFUSION MODELS IN ONE-SHOT FEDERATED LEARNING**\
 [[OpenReview 2024](https://openreview.net/forum?id=trCvBb8guo)]
+
+**Extracting Training Data from Diffusion Models**\
+[[Usenix 2023](https://www.usenix.org/system/files/usenixsecurity23-carlini.pdf)]
 
 
 ## Medical Imaging
