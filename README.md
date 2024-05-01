@@ -148,6 +148,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Dynamical Regimes of Diffusion Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2402.18491)]
 
+**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.07838)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
