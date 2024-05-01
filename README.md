@@ -183,6 +183,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Unified Concept Editing in Diffusion Models**\
 [[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf)]
+[[Project](https://unified.baulab.info)]
 
 
 ## Medical Imaging
