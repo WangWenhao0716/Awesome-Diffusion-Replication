@@ -59,6 +59,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **The Journey, Not the Destination: How Data Guides Diffusion Models**\
 [[ICMLW 2023](https://openreview.net/pdf?id=9hK9NbUAex)]
+[[Code](https://github.com/MadryLab/journey-TRAK)]
 
 ## Understanding
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
