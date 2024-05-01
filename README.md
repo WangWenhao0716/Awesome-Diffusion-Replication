@@ -121,6 +121,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **On the Generalization Properties of Diffusion Models**\
 [[NeurIPS 2023](https://openreview.net/forum?id=hCUG1MCFk5)]
 
+**Understanding and Mitigating Copying in Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=HtMXRGbUMt)]
+[[Code](https://github.com/somepago/DCR)]
+
 
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
@@ -193,6 +197,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICASSP 2024](https://ieeexplore.ieee.org/document/10446820)]
 [[Code](https://github.com/HowardLi0816/dual-fusion-diffusion)]
 
+**Understanding and Mitigating Copying in Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=HtMXRGbUMt)]
+[[Code](https://github.com/somepago/DCR)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
