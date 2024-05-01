@@ -1,3 +1,10 @@
 # Awesome-Diffusion-Memorization-Replication
-Memorization and Replication in Diffusion Models: A Survey and Outlook
+This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into **unveiling**, **explanation**, **detection**, and **mitigation**.
 
+## Unveiling
+
+## Explanation
+
+## Detection
+
+## Mitigation
