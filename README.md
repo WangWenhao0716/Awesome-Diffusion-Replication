@@ -50,7 +50,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
 
-**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**
+**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**\
 [[MICCAIW](https://dl.acm.org/doi/abs/10.1007/978-3-031-53767-7_6)]
 
 
