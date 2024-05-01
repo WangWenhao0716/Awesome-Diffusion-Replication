@@ -167,6 +167,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.19593)]
 
+**Towards Memorization-Free Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.00922)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
