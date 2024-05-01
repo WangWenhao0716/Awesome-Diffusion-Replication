@@ -112,6 +112,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Towards Memorization-Free Diffusion Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2404.00922)]
 
+**The Files are in the Computer: Copyright, Memorization, and Generative AI**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.12590)]
+
+
 ## Mitigation
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
 [[ICMLW 2023](https://openreview.net/forum?id=WRpRPsU0VT)]
