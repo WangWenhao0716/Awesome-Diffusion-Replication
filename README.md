@@ -124,6 +124,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Training Data Protection with Compositional Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2308.01937)]
 
+**Reinforcement Learning from Diffusion Feedback: Q\* for Image Search**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.15648)]
+
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
