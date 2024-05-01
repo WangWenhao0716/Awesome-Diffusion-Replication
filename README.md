@@ -64,7 +64,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**\
 [[NeurIPSW 2023](https://openreview.net/forum?id=20FxHX25aq)]
 
-**Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**
+**Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
 
 ## Understanding
@@ -103,7 +103,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Understanding (Un)Intended Memorization in Text-to-Image Generative Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2312.07550)]
 
-
+**Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
 
 
 ## Mitigation
@@ -154,6 +155,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.07838)]
 
+**Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
