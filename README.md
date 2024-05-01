@@ -1,2 +1,3 @@
-# Awesome-Diffusion-Replication
-Replication in Diffusion Models: A Survey
+# Awesome-Diffusion-Memorization-Replication
+Memorization and Replication in Diffusion Models: A Survey and Outlook
+
