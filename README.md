@@ -72,6 +72,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Extracting Training Data from Diffusion Models**\
 [[Usenix 2023](https://www.usenix.org/system/files/usenixsecurity23-carlini.pdf)]
 
+**Erasing Concepts from Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.pdf)]
+[[Project](https://erasing.baulab.info)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
