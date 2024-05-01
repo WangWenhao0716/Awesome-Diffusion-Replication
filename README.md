@@ -53,6 +53,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**\
 [[MICCAIW](https://dl.acm.org/doi/abs/10.1007/978-3-031-53767-7_6)]
 
+**Effect of Training Epoch Number on Patient Data Memorization in Unconditional Latent Diffusion Models**\
+[[BVMW](https://link.springer.com/chapter/10.1007/978-3-658-44037-4_27)]
 
 
 
