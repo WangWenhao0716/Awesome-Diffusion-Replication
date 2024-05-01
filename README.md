@@ -76,6 +76,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.pdf)]
 [[Project](https://erasing.baulab.info)]
 
+**On the De-duplication of LAION-2B**\
+[[Arxiv 2023](https://arxiv.org/abs/2303.12733)]
+[[Code](https://github.com/ryanwebster90/snip-dedup)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
