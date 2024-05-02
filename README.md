@@ -307,6 +307,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Steal My Artworks for Fine-tuning? A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.13619)]
 
+**WIP: Auditing Artist Style Pirate in Text-to-image Generation Models**\
+[[NDSS](https://www.ndss-symposium.org/ndss-paper/auto-draft-534/)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
