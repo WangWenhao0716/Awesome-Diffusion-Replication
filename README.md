@@ -212,6 +212,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **AI Art and its Impact on Artists**\
 [[AIES 2023](https://dl.acm.org/doi/10.1145/3600211.3604681)]
 
+**Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain**\
+[[CSLAW 24](https://dl.acm.org/doi/10.1145/3614407.3643696)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
