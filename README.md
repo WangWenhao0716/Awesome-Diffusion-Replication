@@ -41,6 +41,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICML 2023](https://proceedings.mlr.press/v202/duan23b/duan23b.pdf)]
 [[Code](https://proceedings.mlr.press/v202/duan23b/duan23b.pdf)]
 
+**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**\
+[[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Dubinski_Towards_More_Realistic_Membership_Inference_Attacks_on_Large_Diffusion_Models_WACV_2024_paper.pdf)]
+
 **An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization**\
 [[ICLR 2024](https://openreview.net/forum?id=rpH9FcCEV6)]
 [[Code](https://github.com/kong13661/PIA)]
