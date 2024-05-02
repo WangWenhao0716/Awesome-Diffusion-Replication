@@ -278,6 +278,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2306.04642)]
 
+**Destruction-Restoration Suppresses Data Protection Perturbations against Diffusion Models**\
+[[ICTAI 2023](https://www.computer.org/csdl/proceedings-article/ictai/2023/427300a586/1T3deWq7u1y)]
 
 
 ## Medical Imaging
