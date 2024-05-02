@@ -104,6 +104,14 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Steal My Artworks for Fine-tuning? A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.13619)]
 
+**Measuring Style Similarity in Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.01292)]
+[[Code](https://github.com/learn2phoenix/CSD)]
+
+**AnyPattern: Towards In-context Image Copy Detection**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.13788)]
+[[Project](https://anypattern.github.io/)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
@@ -268,14 +276,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion**\
 [[CVPR 2024](https://arxiv.org/abs/2403.11162)]
 [[Code](https://github.com/Nicholas0228/Revelio)]
-
-**Measuring Style Similarity in Diffusion Models**\
-[[Arxiv 2024](https://arxiv.org/abs/2404.01292)]
-[[Code](https://github.com/learn2phoenix/CSD)]
-
-**AnyPattern: Towards In-context Image Copy Detection**\
-[[Arxiv 2024](https://arxiv.org/abs/2404.13788)]
-[[Project](https://anypattern.github.io/)]
 
 **Raising the Cost of Malicious AI-Powered Image Editing**\
 [[ICML 2023](https://openreview.net/pdf?id=mSKJS7YbwU)]
