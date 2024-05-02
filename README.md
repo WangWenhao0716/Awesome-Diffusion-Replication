@@ -291,6 +291,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?**\
 [[Arxiv 2023](https://arxiv.org/abs/2312.00084)]
 
+**VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.00084)]
+[[Project](https://github.com/South7X/VA3)]
+
 
 
 ## Medical Imaging
