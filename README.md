@@ -284,7 +284,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Destruction-Restoration Suppresses Data Protection Perturbations against Diffusion Models**\
 [[ICTAI 2023](https://www.computer.org/csdl/proceedings-article/ictai/2023/427300a586/1T3deWq7u1y)]
 
-**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis**
+**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Van_Le_Anti-DreamBooth_Protecting_Users_from_Personalized_Text-to-image_Synthesis_ICCV_2023_paper.pdf)]
 [[Project](https://anti-dreambooth.github.io/)]
 
