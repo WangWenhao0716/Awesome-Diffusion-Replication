@@ -91,6 +91,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/adobe-research/custom-diffusion)]
 
+**Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models**\
+[[ACM Transactions on Graphics](https://dl.acm.org/doi/abs/10.1145/3592133)]
+[[Project](https://tuning-encoder.github.io/)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
