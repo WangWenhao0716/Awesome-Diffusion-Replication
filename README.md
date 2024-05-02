@@ -77,6 +77,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2403.19593)]
 
 ## Understanding
+**On Memorization in Probabilistic Deep Generative Models**\
+[[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
+[[Code](https://github.com/alan-turing-institute/memorization)]
+
 **Provable Copyright Protection for Generative Models**\
 [[ICML 2023](https://openreview.net/forum?id=qRAHZVnQNY)]
 
