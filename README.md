@@ -327,6 +327,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts**\
 [[Arxiv 2023](https://arxiv.org/abs/2305.13873)]
 
+**SalUn: EMPOWERING MACHINE UNLEARNING VIA GRADIENT-BASED WEIGHT SALIENCY IN BOTH IMAGE CLASSIFICATION AND GENERATION**\
+[[ICLR 2024](https://openreview.net/forum?id=gn0mIhQGNM)]
+[[Code](https://github.com/OPTML-Group/Unlearn-Saliency)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
