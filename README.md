@@ -118,6 +118,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts**\
 [[Arxiv 2023](https://arxiv.org/abs/2305.13873)]
 
+**FT-SHIELD: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2310.02401)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
