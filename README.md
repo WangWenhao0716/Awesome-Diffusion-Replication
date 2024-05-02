@@ -79,6 +79,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.19593)]
 
+**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/google/dreambooth)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
