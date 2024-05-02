@@ -310,6 +310,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **WIP: Auditing Artist Style Pirate in Text-to-image Generation Models**\
 [[NDSS](https://www.ndss-symposium.org/ndss-paper/auto-draft-534/)]
 
+**MetaCloak: Preventing Unauthorized Subject-driven Text-to-image Diffusion-based Synthesis via Meta-learning**\
+[[CVPR 2024](https://arxiv.org/pdf/2311.13127)]
+[[Code](https://github.com/liuyixin-louis/MetaCloak)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
