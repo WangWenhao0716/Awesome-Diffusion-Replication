@@ -125,7 +125,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ACLW 2023](https://aclanthology.org/2023.artofsafety-1.3/)]
 
 **Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**\
-[[Arxiv 2023](https://arxiv.org/pdf/2312.08207)]
+[[Arxiv 2023](https://arxiv.org/abs/2312.08207)]
+
+**A Probabilistic Fluctuation based Membership Inference Attack for Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2308.12143)]
 
 
 ## Understanding
