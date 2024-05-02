@@ -17,6 +17,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 }
 ```
 ## Unveiling
+**Red-Teaming the Stable Diffusion Safety Filter**\
+[[NeurIPSW 2022](https://arxiv.org/abs/2210.04610)]
+
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/somepago/DCR)] 
