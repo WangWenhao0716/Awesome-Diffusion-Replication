@@ -31,6 +31,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Membership Inference of Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2301.09956)]
 
+**Membership Inference Attacks against Diffusion Models**\
+[[SPW 2023](https://ieeexplore.ieee.org/document/10188618)]
+
 **Are Diffusion Models Vulnerable to Membership Inference Attacks?**\
 [[ICML 2023](https://proceedings.mlr.press/v202/duan23b/duan23b.pdf)]
 [[Code](https://proceedings.mlr.press/v202/duan23b/duan23b.pdf)]
