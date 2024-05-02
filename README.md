@@ -112,6 +112,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2404.13788)]
 [[Project](https://anypattern.github.io/)]
 
+**CopyScope: Model-level Copyright Infringement Quantification in the Diffusion Workflow**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.12847)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
