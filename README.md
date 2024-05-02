@@ -121,6 +121,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **FT-SHIELD: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2310.02401)]
 
+**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**\
+[[ACLW 2023](https://aclanthology.org/2023.artofsafety-1.3/)]
+
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
