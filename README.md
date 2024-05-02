@@ -331,6 +331,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICLR 2024](https://openreview.net/forum?id=gn0mIhQGNM)]
 [[Code](https://github.com/OPTML-Group/Unlearn-Saliency)]
 
+**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**\
+[[Arxiv 2023](https://arxiv.org/abs/2310.11868)]
+[[Code](https://github.com/OPTML-Group/Diffusion-MU-Attack)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
