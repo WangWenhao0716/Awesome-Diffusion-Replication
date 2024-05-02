@@ -124,6 +124,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**\
 [[ACLW 2023](https://aclanthology.org/2023.artofsafety-1.3/)]
 
+**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/pdf/2312.08207)]
+
 
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
