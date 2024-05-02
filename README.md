@@ -160,6 +160,11 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[NeurIPS 2023](https://openreview.net/forum?id=HtMXRGbUMt)]
 [[Code](https://github.com/somepago/DCR)]
 
+**The Economics of Copyright in the Digital Age**\
+[[CESifo](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608809)]
+
+**Generative AI meets copyright**\
+[[Science](https://www.science.org/doi/abs/10.1126/science.adi0656)]
 
 ## Mitigation
 
@@ -270,8 +275,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2306.04642)]
 
-**The Economics of Copyright in the Digital Age**\
-[[CESifo](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608809)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
