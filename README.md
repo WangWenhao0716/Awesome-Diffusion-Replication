@@ -335,6 +335,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2310.11868)]
 [[Code](https://github.com/OPTML-Group/Diffusion-MU-Attack)]
 
+**Ring-A-Bell! How Reliable are Concept Removal Methods For Diffusion Models?**\
+[[ICLR 2024](https://openreview.net/forum?id=lm7MRcsFiS)]
+[[Code](https://github.com/chiayi-hsu/Ring-A-Bell)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
