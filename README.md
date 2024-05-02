@@ -339,6 +339,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICLR 2024](https://openreview.net/forum?id=lm7MRcsFiS)]
 [[Code](https://github.com/chiayi-hsu/Ring-A-Bell)]
 
+**Improving Adversarial Attacks on Latent Diffusion Model**\
+[[Arxiv 2023](https://arxiv.org/pdf/2310.04687)]
+
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
