@@ -230,6 +230,22 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[NeurIPS 2023](https://openreview.net/forum?id=HtMXRGbUMt)]
 [[Code](https://github.com/somepago/DCR)]
 
+**Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models**\
+[[USENIX 2023](https://www.usenix.org/system/files/usenixsecurity23-shan.pdf)]
+
+**CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion**\
+[[CVPR 2024](https://arxiv.org/abs/2403.11162)]
+[[Code](https://github.com/Nicholas0228/Revelio)]
+
+**Measuring Style Similarity in Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.01292)]
+[[Code](https://github.com/learn2phoenix/CSD)]
+
+**AnyPattern: Towards In-context Image Copy Detection**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.13788)]
+[[Project](https://anypattern.github.io/)]
+
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
