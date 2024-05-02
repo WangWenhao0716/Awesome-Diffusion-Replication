@@ -21,7 +21,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/somepago/DCR)] 
 
-**DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
+**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**\
 [[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
@@ -46,7 +46,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2305.08694)]
 [[Code](https://arxiv.org/abs/2305.08694)]
 
-**DIAGNOSIS: DETECTING UNAUTHORIZED DATA USAGES IN TEXT-TO-IMAGE DIFFUSION MODELS**\
+**DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models**\
 [[ICLR 2024](https://openreview.net/forum?id=f8S3aLm0Vp)]
 [[Code](https://github.com/ZhentingWang/DIAGNOSIS)]
 
@@ -84,7 +84,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Diffusion Probabilistic Models Generalize when They Fail to Memorize**\
 [[ICMLW 2023](https://openreview.net/forum?id=shciCbSk9h)]
 
-**DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
+**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**\
 [[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
@@ -92,11 +92,11 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2305.08694)]
 [[Code](https://arxiv.org/abs/2305.08694)]
 
-**GENERALIZATION IN DIFFUSION MODELS ARISES FROM GEOMETRY-ADAPTIVE HARMONIC REPRESENTATIONS**\
+**Generalization in diffusion models arises from geometry-adaptive harmonic representations**\
 [[ICLR 2024](https://openreview.net/forum?id=ANvmVS2Yr0)]
 [[Code](https://github.com/LabForComputationalVision/memorization_generalization_in_diffusion_models)]
 
-**ON MEMORIZATION IN DIFFUSION MODELS**\
+**On Memorization in Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2310.02664)]
 [[Code](https://github.com/sail-sg/DiffMemorize)]
 
@@ -137,11 +137,11 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Algorithms for Optimal Adaptation of Diffusion Models to Reward Functions**\
 [[ICMLW 2023](https://openreview.net/forum?id=WRpRPsU0VT)]
 
-**DETECTING, EXPLAINING, AND MITIGATING MEMORIZATION IN DIFFUSION MODELS**\
+**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**\
 [[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
-**EXPLORING THE EFFECTIVENESS OF DIFFUSION MODELS IN ONE-SHOT FEDERATED LEARNING**\
+**Exploring the Effectiveness of Diffusion Models in One-Shot Federated Learning**\
 [[OpenReview 2024](https://openreview.net/forum?id=trCvBb8guo)]
 
 **Extracting Training Data from Diffusion Models**\
@@ -200,7 +200,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf)]
 [[Project](https://unified.baulab.info)]
 
-**MITIGATE REPLICATION AND COPYING IN DIFFUSION MODELS WITH GENERALIZED**\
+**Mitigate Replication and Copying in Diffusion Models with Generalized Caption and Dual Fusion Enhancement**\
 [[ICASSP 2024](https://ieeexplore.ieee.org/document/10446820)]
 [[Code](https://github.com/HowardLi0816/dual-fusion-diffusion)]
 
@@ -218,10 +218,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Effect of Training Epoch Number on Patient Data Memorization in Unconditional Latent Diffusion Models**\
 [[BVMW](https://link.springer.com/chapter/10.1007/978-3-658-44037-4_27)]
 
-**BEWARE OF DIFFUSION MODELS FOR SYNTHESIZING MEDICAL IMAGES - A COMPARISON WITH GANS IN TERMS OF MEMORIZING BRAIN MRI AND CHEST X-RAY IMAGES**\
+**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain MRI and chest x-ray images**\
 [[Arxiv 2023](https://arxiv.org/abs/2305.07644)]
 
-**UNCONDITIONAL LATENT DIFFUSION MODELS MEMORIZE PATIENT IMAGING DATA**\
+**Unconditional Latent Diffusion Models Memorize Patient Imaging Data**\
 [[Arxiv 2023](https://arxiv.org/abs/2402.01054)]
 
 **Brain tumor segmentation using synthetic MR images - a comparison of GANs and diffusion models**\
