@@ -169,6 +169,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Generative Artificial Intelligence and Copyright Law**\
 [[CRS Report](https://crsreports.congress.gov/product/pdf/LSB/LSB10922)]
 
+**AI Art and its Impact on Artists**\
+[[AIES 2023](https://dl.acm.org/doi/10.1145/3600211.3604681)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
