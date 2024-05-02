@@ -166,6 +166,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Generative AI meets copyright**\
 [[Science](https://www.science.org/doi/abs/10.1126/science.adi0656)]
 
+**Generative Artificial Intelligence and Copyright Law**\
+[[CRS Report](https://crsreports.congress.gov/product/pdf/LSB/LSB10922)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
