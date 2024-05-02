@@ -245,6 +245,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2404.13788)]
 [[Project](https://anypattern.github.io/)]
 
+**Raising the Cost of Malicious AI-Powered Image Editing**\
+[[ICML 2023](https://openreview.net/pdf?id=mSKJS7YbwU)]
+[[Code](https://github.com/MadryLab/photoguard)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
