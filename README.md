@@ -83,6 +83,14 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/google/dreambooth)]
 
+**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**\
+[[ICLR 2023](https://openreview.net/pdf?id=NAQvF08TcyG)]
+[[Project](https://textual-inversion.github.io/)]
+
+**Multi-Concept Customization of Text-to-Image Diffusion**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/adobe-research/custom-diffusion)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
