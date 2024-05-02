@@ -130,6 +130,13 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **A Probabilistic Fluctuation based Membership Inference Attack for Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2308.12143)]
 
+**White-box Membership Inference Attacks against Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2308.06405)]
+[[Code](https://github.com/py85252876/GSA)]
+
+**Data Forensics in Diffusion Models: A Systematic Analysis of Membership Privacy**\
+[[Arxiv 2023](https://arxiv.org/pdf/2302.07801)]
+
 
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
