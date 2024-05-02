@@ -317,6 +317,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[CVPR 2024](https://arxiv.org/pdf/2311.13127)]
 [[Code](https://github.com/liuyixin-louis/MetaCloak)]
 
+**Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples**\
+[[ICML 2023](https://proceedings.mlr.press/v202/liang23g.html)]
+[[Code](https://github.com/psyker-team/mist)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
