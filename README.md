@@ -25,6 +25,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
+**Membership Inference Attacks Against Text-to-image Generation Models**\
+[[Arxiv 2022](https://arxiv.org/pdf/2210.00968)]
+
 **Membership Inference of Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2301.09956)]
 
