@@ -98,6 +98,12 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ACM Transactions on Graphics](https://dl.acm.org/doi/abs/10.1145/3592133)]
 [[Project](https://tuning-encoder.github.io/)]
 
+**DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.04642)] 
+
+**Steal My Artworks for Fine-tuning? A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.13619)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
@@ -298,6 +304,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Navigating Privacy and Copyright Challenges Across the Data Lifecycle of Generative AI**\
 [[CAIN 2024](https://arxiv.org/abs/2311.18252)]
 
+**Steal My Artworks for Fine-tuning? A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.13619)]
 
 
 ## Medical Imaging
