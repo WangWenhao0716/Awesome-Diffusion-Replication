@@ -267,6 +267,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **SemDeDup: Data-efficient learning at web-scale through semantic deduplication**\
 [[Arxiv 2023](https://arxiv.org/abs/2303.09540)]
 
+**DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.04642)]
 
 
 ## Medical Imaging
