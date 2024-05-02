@@ -295,6 +295,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2312.00084)]
 [[Project](https://github.com/South7X/VA3)]
 
+**Navigating Privacy and Copyright Challenges Across the Data Lifecycle of Generative AI**\
+[[CAIN 2024](https://arxiv.org/abs/2311.18252)]
+
 
 
 ## Medical Imaging
