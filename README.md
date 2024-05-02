@@ -115,6 +115,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **CopyScope: Model-level Copyright Infringement Quantification in the Diffusion Workflow**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.12847)]
 
+**On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.13873)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
@@ -320,6 +323,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples**\
 [[ICML 2023](https://proceedings.mlr.press/v202/liang23g.html)]
 [[Code](https://github.com/psyker-team/mist)]
+
+**On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.13873)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
