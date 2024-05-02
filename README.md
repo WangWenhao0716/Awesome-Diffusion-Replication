@@ -288,6 +288,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Van_Le_Anti-DreamBooth_Protecting_Users_from_Personalized_Text-to-image_Synthesis_ICCV_2023_paper.pdf)]
 [[Project](https://anti-dreambooth.github.io/)]
 
+**Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.00084)]
+
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
