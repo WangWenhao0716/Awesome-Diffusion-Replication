@@ -393,6 +393,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion**\
 [[ACM MM 2023](https://dl.acm.org/doi/10.1145/3581783.3611867)]
 
+**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**\
+[[ICMLW 2023](https://openreview.net/forum?id=6zALFeqxY0)]
+[[Code](https://github.com/nannullna/safe-diffusion)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
