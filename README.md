@@ -143,6 +143,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**\
 [[NeurIPS 2023](https://openreview.net/forum?id=VOstHxDdsN)]
 
+**Not with my name! Inferring artists’ names of input strings employed by Diffusion Models**\
+[[ICIAP 2023](https://link.springer.com/chapter/10.1007/978-3-031-43148-7_31)]
+[[Code](https://github.com/ictlab-unict/not-with-my-name)]
 
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
