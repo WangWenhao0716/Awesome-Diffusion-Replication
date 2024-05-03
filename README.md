@@ -430,4 +430,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Brain tumor segmentation using synthetic MR images - a comparison of GANs and diffusion models**\
 [[Scientific Data](https://www.nature.com/articles/s41597-024-03073-x)]
 
+**Privacy Distillation: Reducing Re-identification Risk of Diffusion Models**\
+[[MICCAIW](https://dl.acm.org/doi/abs/10.1007/978-3-031-53767-7_1)]
+
 
