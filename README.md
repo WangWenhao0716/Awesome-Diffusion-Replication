@@ -438,6 +438,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework**\
 [[Arxiv 2023](https://arxiv.org/abs/2305.03980)]
 
+**MACE: Mass Concept Erasure in Diffusion Models**\
+[[CVPR 2024](https://arxiv.org/pdf/2403.06135)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
