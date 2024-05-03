@@ -147,6 +147,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICIAP 2023](https://link.springer.com/chapter/10.1007/978-3-031-43148-7_31)]
 [[Code](https://github.com/ictlab-unict/not-with-my-name)]
 
+**Measuring the Success of Diffusion Models at Imitating Human Artists**\
+[[ICMLW 2023](https://arxiv.org/abs/2307.04028)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
