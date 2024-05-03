@@ -431,6 +431,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Inventing art styles with no artistic training data**\
 [[Arxiv 2023](https://arxiv.org/pdf/2305.12015v2)]
 
+**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models**\
+[[NeurIPS 2024](https://openreview.net/forum?id=BC1IJdsuYB)]
+[[Code](https://github.com/clear-nus/selective-amnesia)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
