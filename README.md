@@ -447,6 +447,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers**\
 [[Arxiv 2023](https://arxiv.org/pdf/2311.17717)]\
 
+**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**
+[[Arxiv 2023](https://arxiv.org/pdf/2312.12807)]\
+
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
