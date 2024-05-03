@@ -428,6 +428,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2305.12683)]
 [[Code](https://github.com/psyker-team/mist)]
 
+**Inventing art styles with no artistic training data**\
+[[Arxiv 2023](https://arxiv.org/pdf/2305.12015v2)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
