@@ -378,7 +378,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **My Art My Choice: Adversarial Protection Against Unruly AI**\
 [[Arxiv 2023](https://arxiv.org/abs/2309.03198)]
 
-
+**DUAW: Data-free Universal Adversarial Watermark against Stable Diffusion Customization**\
+[[ICLRW 2024](https://openreview.net/forum?id=XYD342nKy8)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
