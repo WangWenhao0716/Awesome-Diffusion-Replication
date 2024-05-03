@@ -442,13 +442,19 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[CVPR 2024](https://arxiv.org/pdf/2403.06135)]
 
 **Implicit Concept Removal of Diffusion Models**\
-[[Arxiv 2023](https://arxiv.org/pdf/2310.05873)]\
+[[Arxiv 2023](https://arxiv.org/pdf/2310.05873)]
 
 **Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers**\
-[[Arxiv 2023](https://arxiv.org/pdf/2311.17717)]\
+[[Arxiv 2023](https://arxiv.org/pdf/2311.17717)]
 
-**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**
-[[Arxiv 2023](https://arxiv.org/pdf/2312.12807)]\
+**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/pdf/2312.12807)]
+
+**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2402.11846)]
+
+**Removing Undesirable Concepts in Text-to-Image Generative Models with Learnable Prompts**\
+[[Arxiv 2024](https://arxiv.org/pdf/2403.12326)]
 
 
 ## Medical Imaging
