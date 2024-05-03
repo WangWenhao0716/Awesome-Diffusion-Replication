@@ -384,6 +384,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **DUAW: Data-free Universal Adversarial Watermark against Stable Diffusion Customization**\
 [[ICLRW 2024](https://openreview.net/forum?id=XYD342nKy8)]
 
+**Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion**\
+[[ACM MM 2023](https://dl.acm.org/doi/10.1145/3581783.3611867)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
