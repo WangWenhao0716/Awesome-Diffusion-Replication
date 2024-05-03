@@ -407,6 +407,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[NeurIPS 2023](https://openreview.net/forum?id=tesBViWnbx)]
 [[Code](https://github.com/duchengbin8/Stable_Diffusion_is_Unstable)]
 
+**Unlearnable Examples for Diffusion Models: Protect Data from Unauthorized Exploitation**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.01902)]
+
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
