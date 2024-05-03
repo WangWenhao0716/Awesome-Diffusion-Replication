@@ -154,6 +154,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2306.01272)]
 [[Code](https://github.com/h-aboutalebi/DeepfakeArt)]
 
+**AI Imagery and the Overton Window**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.00080)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
