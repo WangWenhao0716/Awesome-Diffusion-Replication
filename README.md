@@ -400,6 +400,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICMLW 2023](https://openreview.net/forum?id=6zALFeqxY0)]
 [[Code](https://github.com/nannullna/safe-diffusion)]
 
+**Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.07754)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
