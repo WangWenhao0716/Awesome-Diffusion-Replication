@@ -150,6 +150,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Measuring the Success of Diffusion Models at Imitating Human Artists**\
 [[ICMLW 2023](https://arxiv.org/abs/2307.04028)]
 
+**DeepfakeArt Challenge: A Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.01272)]
+[[Code](https://github.com/h-aboutalebi/DeepfakeArt)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
