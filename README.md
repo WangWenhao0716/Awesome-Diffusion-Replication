@@ -435,6 +435,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[NeurIPS 2024](https://openreview.net/forum?id=BC1IJdsuYB)]
 [[Code](https://github.com/clear-nus/selective-amnesia)]
 
+**Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.03980)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
