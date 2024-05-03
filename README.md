@@ -442,7 +442,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[CVPR 2024](https://arxiv.org/pdf/2403.06135)]
 
 **Implicit Concept Removal of Diffusion Models**\
-[[Arxiv 2023](https://arxiv.org/pdf/2310.05873)]
+[[Arxiv 2023](https://arxiv.org/pdf/2310.05873)]\
+
+**Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers**\
+[[Arxiv 2023](https://arxiv.org/pdf/2311.17717)]\
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
