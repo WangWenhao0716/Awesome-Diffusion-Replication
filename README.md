@@ -375,7 +375,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Catch You Everything Everywhere: Guarding Textual Inversion via Concept Watermarking**\
 [[Arxiv 2023](https://arxiv.org/abs/2309.05940)]
 
-
+**My Art My Choice: Adversarial Protection Against Unruly AI**\
+[[Arxiv 2023](https://arxiv.org/abs/2309.03198)]
 
 
 
