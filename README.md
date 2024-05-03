@@ -157,6 +157,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **AI Imagery and the Overton Window**\
 [[Arxiv 2023](https://arxiv.org/abs/2306.00080)]
 
+**Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models**\
+[[CCS 2023](https://dl.acm.org/doi/10.1145/3576915.3616679)]
+[[Code](https://github.com/YitingQu/unsafe-diffusion)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
