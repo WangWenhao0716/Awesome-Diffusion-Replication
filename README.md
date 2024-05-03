@@ -137,6 +137,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Data Forensics in Diffusion Models: A Systematic Analysis of Membership Privacy**\
 [[Arxiv 2023](https://arxiv.org/pdf/2302.07801)]
 
+**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**\
+[[NeurIPS 2023](https://openreview.net/forum?id=VOstHxDdsN)]
+
 
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
@@ -364,6 +367,12 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Improving Adversarial Attacks on Latent Diffusion Model**\
 [[Arxiv 2023](https://arxiv.org/pdf/2310.04687)]
+
+**Prompting4Debugging: Red-Teaming Text-to-Image Diffusion Models by Finding Problematic Prompts**\
+[[Arxiv 2023](https://arxiv.org/abs/2309.06135)]
+[[Code](https://github.com/joycenerd/P4D)]
+
+
 
 
 ## Medical Imaging
