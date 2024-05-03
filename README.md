@@ -372,6 +372,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2309.06135)]
 [[Code](https://github.com/joycenerd/P4D)]
 
+**Catch You Everything Everywhere: Guarding Textual Inversion via Concept Watermarking**\
+[[Arxiv 2023](https://arxiv.org/abs/2309.05940)]
+
+
 
 
 
