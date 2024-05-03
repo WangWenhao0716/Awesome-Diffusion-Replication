@@ -237,6 +237,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Dual Governance: The intersection of centralized regulation and crowdsourced safety mechanisms for Generative AI**\
 [[Arxiv 2023](https://arxiv.org/abs/2308.04448)]
 
+**Can Copyright be Reduced to Privacy?**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.14822)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
