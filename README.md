@@ -424,6 +424,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Unlearnable Examples for Diffusion Models: Protect Data from Unauthorized Exploitation**\
 [[Arxiv 2023](https://arxiv.org/abs/2306.01902)]
 
+**Mist: Towards Improved Adversarial Examples for Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.12683)]
+[[Code](https://github.com/psyker-team/mist)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
