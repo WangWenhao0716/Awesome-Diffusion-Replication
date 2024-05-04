@@ -169,7 +169,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
 [[Code](https://github.com/alan-turing-institute/memorization)]
 
-**Provable Copyright Protection for Generative Models**\
+**On Provable Copyright Protection for Generative Models**\
 [[ICML 2023](https://openreview.net/forum?id=qRAHZVnQNY)]
 
 **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
