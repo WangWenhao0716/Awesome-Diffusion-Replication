@@ -161,6 +161,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[CCS 2023](https://dl.acm.org/doi/10.1145/3576915.3616679)]
 [[Code](https://github.com/YitingQu/unsafe-diffusion)]
 
+**Social Biases through the Text-to-Image Generation Lens**\
+[[AIES 2023](https://dl.acm.org/doi/abs/10.1145/3600211.3604711)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
