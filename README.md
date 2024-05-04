@@ -247,6 +247,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Can Copyright be Reduced to Privacy?**\
 [[Arxiv 2023](https://arxiv.org/abs/2305.14822)]
 
+**Foundation Models and Fair Use**\
+[[Arxiv 2023](https://arxiv.org/abs/2303.15715)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
