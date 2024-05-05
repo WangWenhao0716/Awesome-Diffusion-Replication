@@ -494,6 +494,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**\
 [[NeurIPSW 2023](https://neurips.cc/virtual/2023/74893)]
 
+**Dataset Deduplication with Datamodels**\
+[[MIT Thesis 2022](https://dspace.mit.edu/handle/1721.1/144905)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
