@@ -265,6 +265,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Analyzing Bias in Diffusion-based Face Generation Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2305.06402)]
 
+**Measuring Forgetting of Memorized Training Examples**\
+[[ICLR 2023](https://openreview.net/forum?id=7bJizxLKrR)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
