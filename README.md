@@ -198,6 +198,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2310.02664)]
 [[Code](https://github.com/sail-sg/DiffMemorize)]
 
+**On the Generalization Properties of Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=hCUG1MCFk5)]
+
 **The Emergence of Reproducibility and Consistency in Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2310.05264)]
 
