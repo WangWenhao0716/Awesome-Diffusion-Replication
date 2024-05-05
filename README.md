@@ -201,6 +201,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **On the Generalization Properties of Diffusion Models**\
 [[NeurIPS 2023](https://openreview.net/forum?id=hCUG1MCFk5)]
 
+**On the Generalization of Diffusion Model**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.14712)]
+
 **The Emergence of Reproducibility and Consistency in Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2310.05264)]
 
