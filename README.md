@@ -262,6 +262,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Stable Bias: Evaluating Societal Representations in Diffusion Models**\
 [[NeurIPS 2023](https://openreview.net/forum?id=qVXYU3F017)]
 
+**Analyzing Bias in Diffusion-based Face Generation Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.06402)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
