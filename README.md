@@ -506,6 +506,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Mitigating Inappropriateness in Image Generation: Can there be Value in Reflecting the World’s Ugliness?**\
 [[ICMLW 2023](https://openreview.net/forum?id=hl9tJX9Fdx)]
 
+**Toward effective protection against diffusion-based mimicry through score distillation**\
+[[ICLR 2024](https://openreview.net/forum?id=NzxCMe88HX)]\
+[[Code](https://github.com/xavihart/Diff-Protect)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
