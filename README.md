@@ -259,6 +259,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Differentially Private Diffusion Models Generate Useful Synthetic Images**\
 [[Arxiv 2023](https://arxiv.org/abs/2302.13861)]
 
+**Stable Bias: Evaluating Societal Representations in Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=qVXYU3F017)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
