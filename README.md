@@ -140,6 +140,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Data Forensics in Diffusion Models: A Systematic Analysis of Membership Privacy**\
 [[Arxiv 2023](https://arxiv.org/pdf/2302.07801)]
 
+**Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models**\
+[[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Generated_Distributions_Are_All_You_Need_for_Membership_Inference_Attacks_WACV_2024_paper.pdf)]
+
 **Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**\
 [[NeurIPS 2023](https://openreview.net/forum?id=VOstHxDdsN)]
 
