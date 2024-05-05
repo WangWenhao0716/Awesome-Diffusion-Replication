@@ -164,6 +164,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Social Biases through the Text-to-Image Generation Lens**\
 [[AIES 2023](https://dl.acm.org/doi/abs/10.1145/3600211.3604711)]
 
+**Exploiting Cultural Biases via Homoglyphs in Text-to-Image Synthesis**\
+[[JAIR 2023](https://arxiv.org/abs/2209.08891)]
+[[Code](https://github.com/LukasStruppek/Exploiting-Cultural-Biases-via-Homoglyphs)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
