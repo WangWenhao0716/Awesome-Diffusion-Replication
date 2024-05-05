@@ -484,6 +484,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Struppek_Rickrolling_the_Artist_Injecting_Backdoors_into_Text_Encoders_for_Text-to-Image_ICCV_2023_paper.pdf)]
 [[Code](https://github.com/LukasStruppek/Rickrolling-the-Artist)]
 
+**DP-LDMs: Differentially Private Latent Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.15759)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
