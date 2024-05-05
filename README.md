@@ -272,6 +272,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Measuring Forgetting of Memorized Training Examples**\
 [[ICLR 2023](https://openreview.net/forum?id=7bJizxLKrR)]
 
+**A Pathway Towards Responsible AI Generated Content**\
+[[IJCAI 2023](https://www.ijcai.org/proceedings/2023/803)]
+
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
