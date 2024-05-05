@@ -453,7 +453,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/pdf/2305.12015v2)]
 
 **Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models**\
-[[NeurIPS 2024](https://openreview.net/forum?id=BC1IJdsuYB)]
+[[NeurIPS 2023](https://openreview.net/forum?id=BC1IJdsuYB)]
 [[Code](https://github.com/clear-nus/selective-amnesia)]
 
 **Towards Prompt-robust Face Privacy Protection via Adversarial Decoupling Augmentation Framework**\
