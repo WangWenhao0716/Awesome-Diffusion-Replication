@@ -275,6 +275,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **A Pathway Towards Responsible AI Generated Content**\
 [[IJCAI 2023](https://www.ijcai.org/proceedings/2023/803)]
 
+**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**\
+[[NeurIPS 2023](https://openreview.net/forum?id=RRSltzPc7w)]
 
 ## Mitigation
 
