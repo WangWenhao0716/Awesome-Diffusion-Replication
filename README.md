@@ -290,6 +290,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **How Generative AI Turns Copyright Upside Down**\
 [[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517702)]
 
+**Generative AI Art: Copyright Infringement and Fair Use**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4483539)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
