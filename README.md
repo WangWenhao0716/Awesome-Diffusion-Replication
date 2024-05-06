@@ -93,6 +93,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICLR 2023](https://openreview.net/pdf?id=NAQvF08TcyG)]
 [[Project](https://textual-inversion.github.io/)]
 
+**InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning**\
+[[Arxiv 2023](https://arxiv.org/abs/2304.03411)]
+[[Project](https://jshi31.github.io/InstantBooth/)]
+
 **Multi-Concept Customization of Text-to-Image Diffusion**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/adobe-research/custom-diffusion)]
