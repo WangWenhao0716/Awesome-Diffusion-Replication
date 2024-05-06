@@ -287,6 +287,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Art and the science of generative AI**\
 [[Science 2023](https://www.science.org/doi/10.1126/science.adh4451)]
 
+**How Generative AI Turns Copyright Upside Down**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517702)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
