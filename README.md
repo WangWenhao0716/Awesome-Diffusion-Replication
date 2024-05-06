@@ -281,6 +281,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**\
 [[NeurIPS 2023](https://openreview.net/forum?id=RRSltzPc7w)]
 
+**Art and the science of generative AI**\
+[[Science 2023](https://www.science.org/doi/10.1126/science.adh4451)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
