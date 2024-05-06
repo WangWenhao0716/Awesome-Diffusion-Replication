@@ -310,6 +310,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Can There be Art Without an Artist?**\
 [[NeurIPSW 2022](https://arxiv.org/abs/2209.07667)]
 
+**Auditing Gender Presentation Differences in Text-to-Image Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2302.03675)]
+[[Project](https://salt-nlp.github.io/GEP/)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
