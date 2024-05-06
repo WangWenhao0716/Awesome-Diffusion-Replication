@@ -97,6 +97,13 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2304.03411)]
 [[Project](https://jshi31.github.io/InstantBooth/)]
 
+**Inversion-Based Style Transfer with Diffusion Models**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Inversion-Based_Style_Transfer_With_Diffusion_Models_CVPR_2023_paper.pdf))
+[[Code](https://github.com/zyxElsa/InST)]
+
+**Customizing Text-to-Image Models with a Single Image Pair**\
+[[Arxiv 2024](https://arxiv.org/pdf/2405.01536)]
+
 **Multi-Concept Customization of Text-to-Image Diffusion**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf)]
 [[Code](https://github.com/adobe-research/custom-diffusion)]
