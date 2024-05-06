@@ -307,6 +307,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Copyright Safety for Generative AI**\
 [[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438593)]
 
+**Can There be Art Without an Artist?**\
+[[NeurIPSW 2022](https://arxiv.org/abs/2209.07667)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
