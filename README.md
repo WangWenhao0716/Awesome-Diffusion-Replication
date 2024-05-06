@@ -171,6 +171,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[JAIR 2023](https://arxiv.org/abs/2209.08891)]
 [[Code](https://github.com/LukasStruppek/Exploiting-Cultural-Biases-via-Homoglyphs)]
 
+**What ChatGPT and generative AI mean for science**\
+[[Nature 2023](https://www.nature.com/articles/d41586-023-00340-6)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
