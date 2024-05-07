@@ -595,6 +595,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Imperceptible Protection Against Style Imitation from Diffusion Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.19254)]
 
+**Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.13706)]
+[[Project](https://cs-people.bu.edu/vpetsiuk/arc/)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
