@@ -581,6 +581,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **PriSampler: Mitigating Property Inference of Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2306.05208)]
 
+**Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2402.11989)]
+[[Code](https://github.com/WilliamLUO0/StablePrivateLoRA)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
