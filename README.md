@@ -685,6 +685,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **©Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model**\
 [[Arxiv 2024](https://arxiv.org/abs/2404.11962)]
 
+**SAFEGEN: Mitigating Unsafe Content Generation in Text-to-Image Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.06666)]
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
