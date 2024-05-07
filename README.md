@@ -602,6 +602,13 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2404.09401)]
 
+**SimAC: A Simple Anti-Customization Method for Protecting Face Privacy against Text-to-Image Synthesis of Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/pdf/2312.07865)]
+[[Code](https://github.com/somuchtome/SimAC)]
+
+**Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.15081)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
