@@ -365,6 +365,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2401.01623)]
 [[Project](https://ai-relative-creativity.github.io/)]
 
+**Generative Artificial Intelligence in Product Design Education: Navigating Concerns of Originality and Ethics**\
+[[IJIMAI 2024](https://www.ijimai.org/journal/bibcite/reference/3426)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
@@ -662,6 +665,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **CPR: Retrieval augmented generation for copyright protection**\
 [[CVPR 2024](https://arxiv.org/abs/2403.18920)]
+
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
