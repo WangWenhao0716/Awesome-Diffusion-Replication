@@ -97,6 +97,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[SIGGRAPH Asia 2023](https://dl.acm.org/doi/10.1145/3618322)]
 [[Project](https://neuraltextualinversion.github.io/NeTI/)]
 
+**Subject-Diffusion: Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**\
+[[Arxiv 2023](https://arxiv.org/pdf/2307.11410)]
+[[Project](https://oppo-mente-lab.github.io/subject_diffusion/)]
+
 **Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models**\
 [[SIGGRAPH Asia 2023](https://dl.acm.org/doi/abs/10.1145/3610548.3618173)]
 [[Project](https://datencoder.github.io/)]
