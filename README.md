@@ -609,6 +609,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2404.15081)]
 
+**PAG: Protecting Artworks from Personalizing Image Generative Models**\
+[[ICONIP 2023](https://link.springer.com/chapter/10.1007/978-981-99-8070-3_33)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
