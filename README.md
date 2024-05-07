@@ -384,6 +384,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Analyzing Copyright Infringement by Artificial Intelligence: The Case of the Diffusion Model**\
 [[AJHSS 2023](https://francis-press.com/papers/10096)]
 
+**Understanding the Influence of Artificial Intelligence Art on Transaction in the Art World**\
+[[Theses 2023](https://repository.ihu.edu.gr/xmlui/handle/11544/30356)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
