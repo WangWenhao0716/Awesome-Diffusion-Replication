@@ -592,6 +592,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[CVPR 2024](https://arxiv.org/pdf/2312.08883)]
 [[Project](https://xuanyuzhang21.github.io/project/editguard/)]
 
+**Imperceptible Protection Against Style Imitation from Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.19254)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
