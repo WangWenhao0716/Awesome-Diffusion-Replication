@@ -630,6 +630,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Towards Test-Time Refusals via Concept Negation**\
 [[NeurIPS 2023](https://openreview.net/forum?id=d4X0QWS2Ln)]
 
+**Machine Unlearning for Image-to-Image Generative Models**\
+[[ICLR 2024](https://openreview.net/forum?id=9hjVoPWPnh)]
+[[Code](https://github.com/jpmorganchase/i2i-generator-unlearning)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
