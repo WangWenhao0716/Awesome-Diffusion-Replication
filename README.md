@@ -343,6 +343,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective**\
 [[Arxiv 2024](https://arxiv.org/pdf/2402.18607)]
 
+**Differential Privacy vs Detecting Copyright Infringement: A Case Study with Normalizing Flows**\
+[[ICMLW 2024](https://genlaw.org/CameraReady/60.pdf)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
