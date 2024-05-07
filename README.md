@@ -618,6 +618,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **PAG: Protecting Artworks from Personalizing Image Generative Models**\
 [[ICONIP 2023](https://link.springer.com/chapter/10.1007/978-981-99-8070-3_33)]
 
+**Training Data Attribution for Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.02174)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
