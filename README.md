@@ -698,6 +698,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **IMMA: Immunizing text-to-image Models against Malicious Adaptation**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.18815)]
 
+**An Economic Solution to Copyright Challenges of Generative AI**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.13964)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
