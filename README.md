@@ -676,6 +676,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **CPR: Retrieval augmented generation for copyright protection**\
 [[CVPR 2024](https://arxiv.org/abs/2403.18920)]
 
+**©Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.11962)]
 
 
 ## Medical Imaging
