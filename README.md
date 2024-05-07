@@ -358,6 +358,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Stable Diffusion Exposed: Gender Bias from Prompt to Image**\
 [[Arxiv 2023](https://arxiv.org/abs/2312.03027)]
 
+**Privacy Distillation: Reducing Re-identification Risk of Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2401.01623)]
+[[Project](https://ai-relative-creativity.github.io/)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
