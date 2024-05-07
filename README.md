@@ -211,6 +211,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **On the Challenges and Opportunities in Generative AI**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.00025)]
 
+**Detecting Generative Parroting through Overfitting Masked Autoencoders**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.19050)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
@@ -650,6 +653,12 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Quantifying and Mitigating Privacy Risks for Tabular Generative Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.07842)]
 
+**Separable Multi-Concept Erasure from Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2402.05947)]
+
+**Editing Massive Concepts in Text-to-Image Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.13807)]
+[[Project](https://silentview.github.io/EMCID/)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
