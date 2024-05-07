@@ -624,6 +624,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Circumventing Concept Erasure Methods For Text-To-Image Generative Models**\
 [[ICLR 2024](https://openreview.net/forum?id=ag3o2T51Ht)]
 
+**Towards Test-Time Refusals via Concept Negation**\
+[[NeurIPS 2023](https://openreview.net/forum?id=d4X0QWS2Ln)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
