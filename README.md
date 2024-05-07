@@ -693,6 +693,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models**\
 [[ICLR 2024](https://openreview.net/forum?id=zpVPhvVKXk)]
+[[Code](https://github.com/sen-mao/SuppressEOT)]
+
+**IMMA: Immunizing text-to-image Models against Malicious Adaptation**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.18815)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
