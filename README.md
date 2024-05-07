@@ -205,6 +205,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **What ChatGPT and generative AI mean for science**\
 [[Nature 2023](https://www.nature.com/articles/d41586-023-00340-6)]
 
+**Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.09450)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
