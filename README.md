@@ -588,6 +588,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2402.11989)]
 [[Code](https://github.com/WilliamLUO0/StablePrivateLoRA)]
 
+**EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection**\
+[[CVPR 2024](https://arxiv.org/pdf/2312.08883)]
+[[Project](https://xuanyuzhang21.github.io/project/editguard/)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
