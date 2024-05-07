@@ -634,6 +634,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICLR 2024](https://openreview.net/forum?id=9hjVoPWPnh)]
 [[Code](https://github.com/jpmorganchase/i2i-generator-unlearning)]
 
+**Espresso: Robust Concept Filtering in Text-to-Image Models**\
+[[Arxiv 2024](https://arxiv.org/pdf/2404.19227)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
