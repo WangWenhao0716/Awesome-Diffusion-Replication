@@ -647,7 +647,8 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Not All Similarities Are Created Equal: Leveraging Data-Driven Biases to Inform GenAI Copyright Disputes**\
 [[ACM CSLAW 2024](https://arxiv.org/abs/2403.17691)]
 
-
+**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.07842)]
 
 
 ## Medical Imaging
