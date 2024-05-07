@@ -372,6 +372,12 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Generative Artificial Intelligence in Product Design Education: Navigating Concerns of Originality and Ethics**\
 [[IJIMAI 2024](https://www.ijimai.org/journal/bibcite/reference/3426)]
 
+**Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.08030)]
+
+**A Good Score Does not Lead to A Good Generative Model**\
+[[Arxiv 2024](https://arxiv.org/abs/2401.04856)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
