@@ -214,6 +214,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Detecting Generative Parroting through Overfitting Masked Autoencoders**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.19050)]
 
+**Property Existence Inference against Generative Models**\
+[[USENIX 2024](https://www.usenix.org/system/files/sec24fall-prepub-2868-wang-lijin.pdf)]
+[[Code](https://github.com/wljLlla/PEI_Code)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
