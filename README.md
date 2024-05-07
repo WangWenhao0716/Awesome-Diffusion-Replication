@@ -660,6 +660,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2403.13807)]
 [[Project](https://silentview.github.io/EMCID/)]
 
+**CPR: Retrieval augmented generation for copyright protection**\
+[[CVPR 2024](https://arxiv.org/abs/2403.18920)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
