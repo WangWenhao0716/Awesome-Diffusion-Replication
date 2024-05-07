@@ -54,6 +54,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Set–Membership Inference Attacks using Data Watermarking**\
 [[Arxiv 2023](https://arxiv.org/abs/2307.15067)]
 
+**Loss and Likelihood Based Membership Inference of Diffusion Models**\
+[[ISC 2023](https://link.springer.com/chapter/10.1007/978-3-031-49187-0_7)]
+
 **Extracting Training Data from Diffusion Models**\
 [[Usenix 2023](https://www.usenix.org/system/files/usenixsecurity23-carlini.pdf)]
 
