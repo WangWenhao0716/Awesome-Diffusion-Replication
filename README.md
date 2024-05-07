@@ -340,6 +340,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2302.03675)]
 [[Project](https://salt-nlp.github.io/GEP/)]
 
+**Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective**\
+[[Arxiv 2024](https://arxiv.org/pdf/2402.18607)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
