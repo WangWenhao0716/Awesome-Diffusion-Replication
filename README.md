@@ -346,6 +346,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Differential Privacy vs Detecting Copyright Infringement: A Case Study with Normalizing Flows**\
 [[ICMLW 2024](https://genlaw.org/CameraReady/60.pdf)]
 
+**Evaluating Data Attribution for Text-to-Image Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Evaluating_Data_Attribution_for_Text-to-Image_Models_ICCV_2023_paper.pdf)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
