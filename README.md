@@ -93,6 +93,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICLR 2023](https://openreview.net/pdf?id=NAQvF08TcyG)]
 [[Project](https://textual-inversion.github.io/)]
 
+**Subject-driven Text-to-Image Generation via Apprenticeship Learning**\
+[[NeurIPS 2023](https://openreview.net/forum?id=wv3bHyQbX7)]
+[[Project](https://open-vision-language.github.io/suti/)]
+
 **InstantBooth: Personalized Text-to-Image Generation without Test-Time Finetuning**\
 [[Arxiv 2023](https://arxiv.org/abs/2304.03411)]
 [[Project](https://jshi31.github.io/InstantBooth/)]
