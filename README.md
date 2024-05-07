@@ -93,6 +93,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICLR 2023](https://openreview.net/pdf?id=NAQvF08TcyG)]
 [[Project](https://textual-inversion.github.io/)]
 
+**A Neural Space-Time Representation for Text-to-Image Personalization**\
+[[SIGGRAPH Asia 2023](https://dl.acm.org/doi/10.1145/3618322)]
+[[Project](https://neuraltextualinversion.github.io/NeTI/)]
+
 **Subject-driven Text-to-Image Generation via Apprenticeship Learning**\
 [[NeurIPS 2023](https://openreview.net/forum?id=wv3bHyQbX7)]
 [[Project](https://open-vision-language.github.io/suti/)]
