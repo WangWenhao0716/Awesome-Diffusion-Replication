@@ -621,6 +621,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Training Data Attribution for Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2306.02174)]
 
+**Circumventing Concept Erasure Methods For Text-To-Image Generative Models**\
+[[ICLR 2024](https://openreview.net/forum?id=ag3o2T51Ht)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
