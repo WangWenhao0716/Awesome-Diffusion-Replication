@@ -208,6 +208,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.09450)]
 
+**On the Challenges and Opportunities in Generative AI**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.00025)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
@@ -636,6 +639,12 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Espresso: Robust Concept Filtering in Text-to-Image Models**\
 [[Arxiv 2024](https://arxiv.org/pdf/2404.19227)]
+
+**Not All Similarities Are Created Equal: Leveraging Data-Driven Biases to Inform GenAI Copyright Disputes**\
+[[ACM CSLAW 2024](https://arxiv.org/abs/2403.17691)]
+
+
+
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
