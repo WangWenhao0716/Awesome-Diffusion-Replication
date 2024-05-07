@@ -349,6 +349,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Evaluating Data Attribution for Text-to-Image Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Evaluating_Data_Attribution_for_Text-to-Image_Models_ICCV_2023_paper.pdf)]
 
+**Feature Likelihood Divergence: Evaluating the Generalization of Generative Models Using Samples**\
+[[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/68b138608ef80b08d65b1bd9594d9559-Abstract-Conference.html)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
