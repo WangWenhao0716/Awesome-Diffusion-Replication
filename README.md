@@ -352,6 +352,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Feature Likelihood Divergence: Evaluating the Generalization of Generative Models Using Samples**\
 [[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/68b138608ef80b08d65b1bd9594d9559-Abstract-Conference.html)]
 
+**Stable Diffusion Exposed: Gender Bias from Prompt to Image**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.03027)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
