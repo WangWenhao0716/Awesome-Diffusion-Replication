@@ -688,6 +688,11 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **SAFEGEN: Mitigating Unsafe Content Generation in Text-to-Image Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2404.06666)]
 
+**Robust Concept Erasure Using Task Vectors**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.03631)]
+
+**Get What You Want, Not What You Don't: Image Content Suppression for Text-to-Image Diffusion Models**\
+[[ICLR 2024](https://openreview.net/forum?id=zpVPhvVKXk)]
 
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
