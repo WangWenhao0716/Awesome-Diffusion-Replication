@@ -105,6 +105,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[SIGGRAPH Asia 2023](https://dl.acm.org/doi/abs/10.1145/3610548.3618173)]
 [[Project](https://datencoder.github.io/)]
 
+**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.13600)]
+[[Project](https://ziplora.github.io/)]
+
 **Subject-driven Text-to-Image Generation via Apprenticeship Learning**\
 [[NeurIPS 2023](https://openreview.net/forum?id=wv3bHyQbX7)]
 [[Project](https://open-vision-language.github.io/suti/)]
