@@ -599,6 +599,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2404.13706)]
 [[Project](https://cs-people.bu.edu/vpetsiuk/arc/)]
 
+**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.09401)]
+
 ## Medical Imaging
 **Using histopathology latent diffusion models as privacy-preserving dataset augmenters improves downstream classification performance**\
 [[Comput Biol Med](https://pubmed.ncbi.nlm.nih.gov/38678938/)]
