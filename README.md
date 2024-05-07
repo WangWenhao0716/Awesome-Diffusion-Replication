@@ -381,6 +381,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **A Good Score Does not Lead to A Good Generative Model**\
 [[Arxiv 2024](https://arxiv.org/abs/2401.04856)]
 
+**Analyzing Copyright Infringement by Artificial Intelligence: The Case of the Diffusion Model**\
+[[AJHSS 2023](https://francis-press.com/papers/10096)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
