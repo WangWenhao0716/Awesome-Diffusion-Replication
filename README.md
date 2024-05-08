@@ -304,6 +304,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain**\
 [[CSLAW 2024](https://dl.acm.org/doi/10.1145/3614407.3643696)]
 
+**Report of the 1st Workshop on Generative AI and Law**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.06477)]
+
 **Dual Governance: The intersection of centralized regulation and crowdsourced safety mechanisms for Generative AI**\
 [[Arxiv 2023](https://arxiv.org/abs/2308.04448)]
 
