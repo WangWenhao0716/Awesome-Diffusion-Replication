@@ -390,6 +390,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Understanding the Influence of Artificial Intelligence Art on Transaction in the Art World**\
 [[Theses 2023](https://repository.ihu.edu.gr/xmlui/handle/11544/30356)]
 
+**AI Art: Artists’ Best Friend or Mortal Enemy?**\
+[[Essay 2023](https://digitalcommons.augustana.edu/libraryprize/13/)]
+
 ## Mitigation
 
 **Differentially Private Diffusion Models**\
