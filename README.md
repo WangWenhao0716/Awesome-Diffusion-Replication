@@ -221,6 +221,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[USENIX 2024](https://www.usenix.org/system/files/sec24fall-prepub-2868-wang-lijin.pdf)]
 [[Code](https://github.com/wljLlla/PEI_Code)]
 
+**CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion**\
+[[CVPR 2024](https://arxiv.org/abs/2403.11162)]
+[[Code](https://github.com/Nicholas0228/Revelio)]
+
 ## Understanding
 **On Memorization in Probabilistic Deep Generative Models**\
 [[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
@@ -479,10 +483,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models**\
 [[USENIX 2023](https://www.usenix.org/system/files/usenixsecurity23-shan.pdf)]
-
-**CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion**\
-[[CVPR 2024](https://arxiv.org/abs/2403.11162)]
-[[Code](https://github.com/Nicholas0228/Revelio)]
 
 **Raising the Cost of Malicious AI-Powered Image Editing**\
 [[ICML 2023](https://openreview.net/pdf?id=mSKJS7YbwU)]
