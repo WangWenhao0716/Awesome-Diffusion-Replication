@@ -161,6 +161,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**\
 [[ACLW 2023](https://aclanthology.org/2023.artofsafety-1.3/)]
 
+**Understanding (Un)Intended Memorization in Text-to-Image Generative Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.07550)]
+
 **Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2312.08207)]
 
@@ -267,9 +270,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**\
 [[Arxiv 2023](https://arxiv.org/abs/2312.03692)]
-
-**Understanding (Un)Intended Memorization in Text-to-Image Generative Models**\
-[[Arxiv 2023](https://arxiv.org/abs/2312.07550)]
 
 **Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**\
 [[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
