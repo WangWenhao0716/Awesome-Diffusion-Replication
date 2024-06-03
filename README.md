@@ -226,9 +226,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Code](https://github.com/Nicholas0228/Revelio)]
 
 ## Understanding
-**On Memorization in Probabilistic Deep Generative Models**\
-[[NeurIPS 2021](https://openreview.net/forum?id=PlGSgjFK2oJ)]
-[[Code](https://github.com/alan-turing-institute/memorization)]
 
 **On Provable Copyright Protection for Generative Models**\
 [[ICML 2023](https://openreview.net/forum?id=qRAHZVnQNY)]
