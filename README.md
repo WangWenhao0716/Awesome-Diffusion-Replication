@@ -225,6 +225,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[CVPR 2024](https://arxiv.org/abs/2403.11162)]
 [[Code](https://github.com/Nicholas0228/Revelio)]
 
+**Evaluating Data Attribution for Text-to-Image Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Evaluating_Data_Attribution_for_Text-to-Image_Models_ICCV_2023_paper.pdf)]
+
 ## Understanding
 
 **On Provable Copyright Protection for Generative Models**\
@@ -344,9 +347,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Auditing Gender Presentation Differences in Text-to-Image Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2302.03675)]
 [[Project](https://salt-nlp.github.io/GEP/)]
-
-**Evaluating Data Attribution for Text-to-Image Models**\
-[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Evaluating_Data_Attribution_for_Text-to-Image_Models_ICCV_2023_paper.pdf)]
 
 **Feature Likelihood Divergence: Evaluating the Generalization of Generative Models Using Samples**\
 [[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/hash/68b138608ef80b08d65b1bd9594d9559-Abstract-Conference.html)]
