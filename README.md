@@ -323,9 +323,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **A Pathway Towards Responsible AI Generated Content**\
 [[IJCAI 2023](https://www.ijcai.org/proceedings/2023/803)]
 
-**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**\
-[[NeurIPS 2023](https://openreview.net/forum?id=RRSltzPc7w)]
-
 **Art and the science of generative AI**\
 [[Science 2023](https://www.science.org/doi/10.1126/science.adh4451)]
 
@@ -347,8 +344,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Auditing Gender Presentation Differences in Text-to-Image Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2302.03675)]
 [[Project](https://salt-nlp.github.io/GEP/)]
-
-
 
 **Evaluating Data Attribution for Text-to-Image Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Evaluating_Data_Attribution_for_Text-to-Image_Models_ICCV_2023_paper.pdf)]
@@ -473,6 +468,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models**\
 [[USENIX 2023](https://www.usenix.org/system/files/usenixsecurity23-shan.pdf)]
+
+**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**\
+[[NeurIPS 2023](https://openreview.net/forum?id=RRSltzPc7w)]
 
 **Raising the Cost of Malicious AI-Powered Image Editing**\
 [[ICML 2023](https://openreview.net/pdf?id=mSKJS7YbwU)]
