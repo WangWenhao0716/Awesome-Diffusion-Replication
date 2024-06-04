@@ -311,9 +311,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Foundation Models and Fair Use**\
 [[Arxiv 2023](https://arxiv.org/abs/2303.15715)]
 
-**Differentially Private Diffusion Models Generate Useful Synthetic Images**\
-[[Arxiv 2023](https://arxiv.org/abs/2302.13861)]
-
 **Stable Bias: Evaluating Societal Representations in Diffusion Models**\
 [[NeurIPS 2023](https://openreview.net/forum?id=qVXYU3F017)]
 
@@ -351,8 +348,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2302.03675)]
 [[Project](https://salt-nlp.github.io/GEP/)]
 
-**Differential Privacy vs Detecting Copyright Infringement: A Case Study with Normalizing Flows**\
-[[ICMLW 2024](https://genlaw.org/CameraReady/60.pdf)]
+
 
 **Evaluating Data Attribution for Text-to-Image Models**\
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Evaluating_Data_Attribution_for_Text-to-Image_Models_ICCV_2023_paper.pdf)]
@@ -386,6 +382,12 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Essay 2023](https://digitalcommons.augustana.edu/libraryprize/13/)]
 
 ## Mitigation
+
+**Differential Privacy vs Detecting Copyright Infringement: A Case Study with Normalizing Flows**\
+[[ICMLW 2024](https://genlaw.org/CameraReady/60.pdf)]
+
+**Differentially Private Diffusion Models Generate Useful Synthetic Images**\
+[[Arxiv 2023](https://arxiv.org/abs/2302.13861)]
 
 **Differentially Private Diffusion Models**\
 [[TMLR 2023](https://openreview.net/forum?id=ZPpQk7FJXF)]
