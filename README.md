@@ -280,9 +280,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Outliers Memorized Last: Trends in Memorization of Diffusion Models Based on Training Distribution and Epoch**\
 [[Openreview 2024](https://openreview.net/forum?id=6ZuDeSHzjj)]
 
-**On the Generalization Properties of Diffusion Models**\
-[[NeurIPS 2023](https://openreview.net/forum?id=hCUG1MCFk5)]
-
 **Understanding and Mitigating Copying in Diffusion Models**\
 [[NeurIPS 2023](https://openreview.net/forum?id=HtMXRGbUMt)]
 [[Code](https://github.com/somepago/DCR)]
