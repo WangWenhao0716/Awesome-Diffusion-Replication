@@ -399,9 +399,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
 [[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
 
-**Exploring the Effectiveness of Diffusion Models in One-Shot Federated Learning**\
-[[OpenReview 2024](https://openreview.net/forum?id=trCvBb8guo)]
-
 **Extracting Training Data from Diffusion Models**\
 [[Usenix 2023](https://www.usenix.org/system/files/usenixsecurity23-carlini.pdf)]
 
