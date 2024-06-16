@@ -639,6 +639,23 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Project](https://cs-people.bu.edu/vpetsiuk/arc/)]
 
 ## Prompt disturbing
+**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Schramowski_Safe_Latent_Diffusion_Mitigating_Inappropriate_Degeneration_in_Diffusion_Models_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/ml-research/safe-latent-diffusion)]
+
+**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**\
+[[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
+[[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
+
+**Towards Test-Time Refusals via Concept Negation**\
+[[NeurIPS 2023](https://openreview.net/forum?id=d4X0QWS2Ln)]
+
+**Degeneration-Tuning: Using Scrambled Grid shield Unwanted Concepts from Stable Diffusion**\
+[[ACM MM 2023](https://dl.acm.org/doi/10.1145/3581783.3611867)]
+
+**Get what you want, not what you don’t: Image content suppression for text-to-image diffusion models**\
+[[ICLR 2024](https://openreview.net/forum?id=zpVPhvVKXk)]
+[[Code](https://github.com/sen-mao/SuppressEOT)]
 
 ## Novel perspectives
 
