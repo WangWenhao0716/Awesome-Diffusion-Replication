@@ -249,6 +249,11 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[USENIX 2024](https://www.usenix.org/system/files/sec24fall-prepub-2868-wang-lijin.pdf)]
 [[Code](https://github.com/wljLlla/PEI_Code)]
 
+# Understanding
+![image](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/understanding.png)
+
+
+
 
 
 
