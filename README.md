@@ -422,7 +422,36 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2023](https://arxiv.org/abs/2312.03027)]
 
 
+# Mitigation
+<img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/mitigation.png" width="1000">
 
+## Training data optimization
+### Deduplication
+
+### Protection
+
+### Purification
+
+### Corruption
+
+
+## Machine unlearning
+
+## Prompt disturbing
+
+## Novel perspectives
+
+### Composition
+
+### Model immunizing
+
+### Low-rank adaptation
+
+### Despecification guidance
+
+# Medical imaging
+
+<img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/medical.png" width="1000">
 
 
 
