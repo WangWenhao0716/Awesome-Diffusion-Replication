@@ -167,8 +167,54 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 ## Proactive replication
 
 ### Fine-tuning
+**DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Ruiz_DreamBooth_Fine_Tuning_Text-to-Image_Diffusion_Models_for_Subject-Driven_Generation_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/google/dreambooth)]
+
+**An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion**\
+[[ICLR 2023](https://openreview.net/pdf?id=NAQvF08TcyG)]
+[[Project](https://textual-inversion.github.io/)]
+
+**A Neural Space-Time Representation for Text-to-Image Personalization**\
+[[SIGGRAPH Asia 2023](https://dl.acm.org/doi/10.1145/3618322)]
+[[Project](https://neuraltextualinversion.github.io/NeTI/)]
+
+**Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image Models**\
+[[SIGGRAPH Asia 2023](https://dl.acm.org/doi/abs/10.1145/3610548.3618173)]
+[[Project](https://datencoder.github.io/)]
+
+**ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.13600)]
+[[Project](https://ziplora.github.io/)]
+
+**Subject-driven Text-to-Image Generation via Apprenticeship Learning**\
+[[NeurIPS 2023](https://openreview.net/forum?id=wv3bHyQbX7)]
+[[Project](https://open-vision-language.github.io/suti/)]
+
+**Inversion-Based Style Transfer with Diffusion Models**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Inversion-Based_Style_Transfer_With_Diffusion_Models_CVPR_2023_paper.pdf))
+[[Code](https://github.com/zyxElsa/InST)]
+
+**Customizing Text-to-Image Models with a Single Image Pair**\
+[[Arxiv 2024](https://arxiv.org/pdf/2405.01536)]
+
+**Multi-Concept Customization of Text-to-Image Diffusion**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Kumari_Multi-Concept_Customization_of_Text-to-Image_Diffusion_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/adobe-research/custom-diffusion)]
+
+**Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models**\
+[[ACM Transactions on Graphics](https://dl.acm.org/doi/abs/10.1145/3592133)]
+[[Project](https://tuning-encoder.github.io/)]
 
 ### Training-free
+
+**Subject-Diffusion: Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**\
+[[Arxiv 2023](https://arxiv.org/pdf/2307.11410)]
+[[Project](https://oppo-mente-lab.github.io/subject_diffusion/)]
+
+**Subject-Diffusion: Open Domain Personalized Text-to-Image Generation without Test-time Fine-tuning**\
+[[Arxiv 2023](https://arxiv.org/pdf/2307.11410)]
+[[Project](https://oppo-mente-lab.github.io/subject_diffusion/)]
 
 ## Novel perspectives
 
