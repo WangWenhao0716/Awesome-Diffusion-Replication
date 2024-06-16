@@ -16,6 +16,9 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
   year={2024}
 }
 ```
+
+# Contents
+
 # Unveiling
 ![image](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png)
 
@@ -56,6 +59,15 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[AIES 2023](https://dl.acm.org/doi/abs/10.1145/3600211.3604711)]
 
 ### Implicit
+**Understanding (Un)Intended Memorization in Text-to-Image Generative Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.07550)]
+
+**On Copyright Risks of Text-to-Image Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.12803)]
+
+**Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery**\
+[[NeurIPS 2023](https://openreview.net/forum?id=VOstHxDdsN)]
+
 
 ## Membership inference
 
