@@ -525,6 +525,11 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models**\
 [[USENIX 2023](https://www.usenix.org/system/files/usenixsecurity23-shan.pdf)]
 
+**Toward effective protection against diffusion-based mimicry through score distillation**\
+[[ICLR 2024](https://openreview.net/forum?id=NzxCMe88HX)]
+[[Code](https://github.com/xavihart/Diff-Protect)]
+
+
 ### Purification
 **CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**\
 [[NeurIPSW 2023](https://neurips.cc/virtual/2023/74893)]
@@ -540,6 +545,98 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2404.10177)]
 
 ## Machine unlearning
+**Erasing Concepts from Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Gandikota_Erasing_Concepts_from_Diffusion_Models_ICCV_2023_paper.pdf)]
+[[Project](https://erasing.baulab.info)]
+
+**Ablating Concepts in Text-to-Image Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Kumari_Ablating_Concepts_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.pdf)]
+[[Code](https://github.com/nupurkmr9/concept-ablation)]
+
+**Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
+
+**Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2303.17591)]
+[[Code](https://github.com/SHI-Labs/Forget-Me-Not)]
+
+**EraseDiff: Erasing Data Influence in Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2401.05779)]
+
+**All but One: Surgical Concept Erasing with Model Preservation in Text-to-Image Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/pdf/2312.12807)]
+
+**Removing Undesirable Concepts in Text-to-Image Generative Models with Learnable Prompts**\
+[[Arxiv 2024](https://arxiv.org/pdf/2403.12326)]
+
+**Implicit Concept Removal of Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/pdf/2310.05873)]
+
+**Receler: Reliable Concept Erasing of Text-to-Image Diffusion Models via Lightweight Erasers**\
+[[Arxiv 2023](https://arxiv.org/pdf/2311.17717)]
+
+**Salun: Empowering machine unlearning via gradient-based weight saliency in both image classification and generation**\
+[[ICLR 2024](https://openreview.net/forum?id=gn0mIhQGNM)]
+[[Code](https://github.com/OPTML-Group/Unlearn-Saliency)]
+
+**Selective Amnesia: A Continual Learning Approach to Forgetting in Deep Generative Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=BC1IJdsuYB)]
+[[Code](https://github.com/clear-nus/selective-amnesia)]
+
+**Machine Unlearning for Image-to-Image Generative Models**\
+[[ICLR 2024](https://openreview.net/forum?id=9hjVoPWPnh)]
+[[Code](https://github.com/jpmorganchase/i2i-generator-unlearning)]
+
+**Espresso: Robust Concept Filtering in Text-to-Image Models**\
+[[Arxiv 2024](https://arxiv.org/pdf/2404.19227)]
+
+**Robust Concept Erasure Using Task Vectors**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.03631)]
+
+**Pruning for robust concept erasing in diffusion models**\
+[[Arxiv 2024](https://arxiv.org/abs/2405.16534)]
+
+**SAFEGEN: Mitigating Unsafe Content Generation in Text-to-Image Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.06666)]
+
+**©Plug-in Authorization for Human Content Copyright Protection in Text-to-Image Model**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.11962)]
+
+**Unified Concept Editing in Diffusion Models**\
+[[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Gandikota_Unified_Concept_Editing_in_Diffusion_Models_WACV_2024_paper.pdf)]
+[[Project](https://unified.baulab.info)]
+
+**Towards Safe Self-Distillation of Internet-Scale Text-to-Image Diffusion Models**\
+[[ICMLW 2023](https://openreview.net/forum?id=6zALFeqxY0)]
+[[Code](https://github.com/nannullna/safe-diffusion)]
+
+**Separable Multi-Concept Erasure from Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2402.05947)]
+
+**MACE: Mass Concept Erasure in Diffusion Models**\
+[[CVPR 2024](https://arxiv.org/pdf/2403.06135)]
+
+**Editing Massive Concepts in Text-to-Image Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.13807)]
+[[Project](https://silentview.github.io/EMCID/)]
+
+**UnlearnCanvas: A Stylized Image Dataset to Benchmark Machine Unlearning for Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2402.11846)]
+
+**Circumventing Concept Erasure Methods For Text-To-Image Generative Models**\
+[[ICLR 2024](https://openreview.net/forum?id=ag3o2T51Ht)]
+
+**To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now**\
+[[Arxiv 2023](https://arxiv.org/abs/2310.11868)]
+[[Code](https://github.com/OPTML-Group/Diffusion-MU-Attack)]
+
+**Ring-A-Bell! How Reliable are Concept Removal Methods For Diffusion Models?**\
+[[ICLR 2024](https://openreview.net/forum?id=lm7MRcsFiS)]
+[[Code](https://github.com/chiayi-hsu/Ring-A-Bell)]
+
+**Concept Arithmetics for Circumventing Concept Inhibition in Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.13706)]
+[[Project](https://cs-people.bu.edu/vpetsiuk/arc/)]
 
 ## Prompt disturbing
 
@@ -574,10 +671,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 **Brain tumor segmentation using synthetic MR images - a comparison of GANs and diffusion models**\
 [[Scientific Data](https://www.nature.com/articles/s41597-024-03073-x)]
-
-**Toward effective protection against diffusion-based mimicry through score distillation**\
-[[ICLR 2024](https://openreview.net/forum?id=NzxCMe88HX)]\
-[[Code](https://github.com/xavihart/Diff-Protect)]
 
 
 
