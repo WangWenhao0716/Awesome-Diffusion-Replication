@@ -33,6 +33,12 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
     - [Fine-tuning](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-fine-tuning)
     - [Training-free](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-training-free)
   - [Novel perspectives](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#novel-perspectives)
+    - [Magnitude of noise](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-magnitude-of-noise)
+    - [Training data attribution](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-training-data-attribution)
+    - [Cross attention](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-cross-attention)
+    - [Fine-tune to leak](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-fine-tune-to-leak)
+    - [Overfitted MAE](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-overfitted-mae)
+    - [Property inference](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-property-inference)
 
 
 # Unveiling
