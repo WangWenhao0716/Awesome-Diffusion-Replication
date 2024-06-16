@@ -20,8 +20,40 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 ![image](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png)
 
 ## Prompting
-
 ### Specific
+**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/somepago/DCR)] 
+
+**Not with my name! Inferring artists’ names of input strings employed by Diffusion Models**\
+[[ICIAP 2023](https://link.springer.com/chapter/10.1007/978-3-031-43148-7_31)]
+[[Code](https://github.com/ictlab-unict/not-with-my-name)]
+
+**Extracting Training Data from Diffusion Models**\
+[[Usenix 2023](https://www.usenix.org/system/files/usenixsecurity23-carlini.pdf)]
+
+**A Reproducible Extraction of Training Images from Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.08694)]
+[[Code](https://arxiv.org/abs/2305.08694)]
+
+**Understanding (Un)Intended Memorization in Text-to-Image Generative Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.07550)]
+
+**The Stronger the Diffusion Model, the Easier the Backdoor: Data Poisoning to Induce Copyright Breaches Without Adjusting Finetuning Pipeline**\
+[[NeurIPSW 2023](https://openreview.net/forum?id=20FxHX25aq)]
+
+**Unsafe Diffusion: On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models**\
+[[CCS 2023](https://dl.acm.org/doi/10.1145/3576915.3616679)]
+[[Code](https://github.com/YitingQu/unsafe-diffusion)]
+
+**Distilling Adversarial Prompts from Safety Benchmarks: Report for the Adversarial Nibbler Challenge**\
+[[ACLW 2023](https://aclanthology.org/2023.artofsafety-1.3/)]
+
+**On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.13873)]
+
+**Social Biases through the Text-to-Image Generation Lens**\
+[[AIES 2023](https://dl.acm.org/doi/abs/10.1145/3600211.3604711)]
 
 ### Implicit
 
@@ -62,9 +94,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Red-Teaming the Stable Diffusion Safety Filter**\
 [[NeurIPSW 2022](https://arxiv.org/abs/2210.04610)]
 
-**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
-[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
-[[Code](https://github.com/somepago/DCR)] 
+
 
 **Detecting, Explaining, and Mitigating Memorization in Diffusion Models**\
 [[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
