@@ -253,8 +253,45 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 # Understanding
 <img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/understanding.png" width="1000">
 
+## Data
 
+### Insufficient training data
 
+### Image duplication
+
+### Misleading captions
+
+### Data types
+
+## Methods
+
+### Deterministic sampler
+
+### Model capacity
+
+### New metrics
+
+## Theory
+
+### Near access-freeness
+
+### Dichotomy
+
+### Geometry-adaptive
+
+### Data-(in)dependent
+
+### Mutual information
+
+### Creativity
+
+## Humanities
+
+### Regulation
+
+### Art
+
+### Society
 
 
 
