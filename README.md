@@ -20,7 +20,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 # Contents
 
 # Unveiling
-<img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png" width="500">
+<img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png" width="1000">
 
 
 ## Prompting
