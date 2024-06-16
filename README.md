@@ -18,7 +18,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 ```
 
 # Contents
-- [Unveiling](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#unveiling)
+- [Unveiling](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/main/README.md#unveiling)
   - [Prompting](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#prompting)
     - [Specific](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-specific)
     - [Implicit](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-implicit)
