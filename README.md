@@ -151,6 +151,18 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[ICMLW 2023](https://arxiv.org/abs/2307.04028)]
 
 ## Watermarking
+**DIAGNOSIS: Detecting Unauthorized Data Usages in Text-to-image Diffusion Models**\
+[[ICLR 2024](https://openreview.net/forum?id=f8S3aLm0Vp)]
+[[Code](https://github.com/ZhentingWang/DIAGNOSIS)]
+
+**DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.04642)] 
+
+**FT-SHIELD: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2310.02401)]
+
+**Steal My Artworks for Fine-tuning? A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.13619)]
 
 ## Proactive replication
 
