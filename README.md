@@ -427,13 +427,117 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 ## Training data optimization
 ### Deduplication
+**Understanding and Mitigating Copying in Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=HtMXRGbUMt)]
+[[Code](https://github.com/somepago/DCR)]
+
+**On the De-duplication of LAION-2B**\
+[[Arxiv 2023](https://arxiv.org/abs/2303.12733)]
+[[Code](https://github.com/ryanwebster90/snip-dedup)]
+
+**SemDeDup: Data-efficient learning at web-scale through semantic deduplication**\
+[[Arxiv 2023](https://arxiv.org/abs/2303.09540)]
+
+**Towards Memorization-Free Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.00922)]
+
+**Dataset Deduplication with Datamodels**\
+[[MIT Thesis 2022](https://dspace.mit.edu/handle/1721.1/144905)]
+
+**Mitigate Replication and Copying in Diffusion Models with Generalized Caption and Dual Fusion Enhancement**\
+[[ICASSP 2024](https://ieeexplore.ieee.org/document/10446820)]
+[[Code](https://github.com/HowardLi0816/dual-fusion-diffusion)]
+
 
 ### Protection
+**Differentially Private Diffusion Models Generate Useful Synthetic Images**\
+[[Arxiv 2023](https://arxiv.org/abs/2302.13861)]
+
+**Differentially Private Diffusion Models**\
+[[TMLR 2023](https://openreview.net/forum?id=ZPpQk7FJXF)]
+[[Project](https://research.nvidia.com/labs/toronto-ai/DPDM/)]
+
+**Improving Adversarial Attacks on Latent Diffusion Model**\
+[[Arxiv 2023](https://arxiv.org/pdf/2310.04687)]
+
+**Unlearnable Examples for Diffusion Models: Protect Data from Unauthorized Exploitation**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.01902)]
+
+**Watermark-embedded Adversarial Examples for Copyright Protection against Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.09401)]
+
+**Mist: Towards Improved Adversarial Examples for Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.12683)]
+[[Code](https://github.com/psyker-team/mist)]
+
+**Anti-DreamBooth: Protecting users from personalized text-to-image synthesis**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Van_Le_Anti-DreamBooth_Protecting_Users_from_Personalized_Text-to-image_Synthesis_ICCV_2023_paper.pdf)]
+[[Project](https://anti-dreambooth.github.io/)]
+
+**Toward robust imperceptible perturbation against unauthorized text-to-image diffusion-based synthesis**\
+[[CVPR 2024](https://arxiv.org/abs/2311.13127v2)]
+[[Code](https://github.com/liuyixin-louis/MetaCloak)]
+
+**Simac: A simple anti-customization method against text-to-image synthesis of diffusion models**\
+[[CVPR 2024](https://arxiv.org/abs/2312.07865)]
+
+**Perturbing Attention Gives You More Bang for the Buck: Subtle Imaging Perturbations That Efficiently Fool Customized Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.15081)]
+
+**DUAW: Data-free Universal Adversarial Watermark against Stable Diffusion Customization**\
+[[ICLRW 2024](https://openreview.net/forum?id=XYD342nKy8)]
+
+**Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.07754)]
+
+**PAG: Protecting Artworks from Personalizing Image Generative Models**\
+[[ICONIP 2023](https://link.springer.com/chapter/10.1007/978-981-99-8070-3_33)]
+
+**My Art My Choice: Adversarial Protection Against Unruly AI**\
+[[Arxiv 2023](https://arxiv.org/abs/2309.03198)]
+
+**Adversarial Example Does Good: Preventing Painting Imitation from Diffusion Models via Adversarial Examples**\
+[[ICML 2023](https://proceedings.mlr.press/v202/liang23g.html)]
+[[Code](https://github.com/psyker-team/mist)]
+
+**Differential Privacy vs Detecting Copyright Infringement: A Case Study with Normalizing Flows**\
+[[ICMLW 2024](https://genlaw.org/CameraReady/60.pdf)]
+
+**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.07838)]
+
+**DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.14421)]
+
+**Destruction-Restoration Suppresses Data Protection Perturbations against Diffusion Models**\
+[[ICTAI 2023](https://www.computer.org/csdl/proceedings-article/ictai/2023/427300a586/1T3deWq7u1y)]
+
+**Can Protective Perturbation Safeguard Personal Data from Being Exploited by Stable Diffusion?**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.00084)]
+
+**VA3: Virtually Assured Amplification Attack on Probabilistic Copyright Protection for Text-to-Image Generative Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.00084)]
+[[Project](https://github.com/South7X/VA3)]
+
+**IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI**\
+[[NeurIPS 2023](https://openreview.net/forum?id=RRSltzPc7w)]
+
+**Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models**\
+[[USENIX 2023](https://www.usenix.org/system/files/usenixsecurity23-shan.pdf)]
 
 ### Purification
+**CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**\
+[[NeurIPSW 2023](https://neurips.cc/virtual/2023/74893)]
+
+**Inventing art styles with no artistic training data**\
+[[Arxiv 2023](https://arxiv.org/pdf/2305.12015v2)]
 
 ### Corruption
+**Ambient Diffusion: Learning Clean Distributions from Corrupted Data**\
+[[NeurIPS 2023](https://openreview.net/pdf?id=wBJBLy9kBY)]
 
+**Consistent Diffusion Meets Tweedie: Training Exact Ambient Diffusion Models with Noisy Data**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.10177)]
 
 ## Machine unlearning
 
@@ -453,8 +557,33 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 <img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/medical.png" width="1000">
 
+**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**\
+[[MICCAIW](https://dl.acm.org/doi/abs/10.1007/978-3-031-53767-7_6)]
+
+**Privacy Distillation: Reducing Re-identification Risk of Diffusion Models**\
+[[MICCAIW](https://dl.acm.org/doi/abs/10.1007/978-3-031-53767-7_1)]
+
+**Effect of Training Epoch Number on Patient Data Memorization in Unconditional Latent Diffusion Models**\
+[[BVMW](https://link.springer.com/chapter/10.1007/978-3-658-44037-4_27)]
+
+**Beware of diffusion models for synthesizing medical images -- A comparison with GANs in terms of memorizing brain MRI and chest x-ray images**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.07644)]
+
+**Unconditional Latent Diffusion Models Memorize Patient Imaging Data**\
+[[Arxiv 2023](https://arxiv.org/abs/2402.01054)]
+
+**Brain tumor segmentation using synthetic MR images - a comparison of GANs and diffusion models**\
+[[Scientific Data](https://www.nature.com/articles/s41597-024-03073-x)]
+
+**Toward effective protection against diffusion-based mimicry through score distillation**\
+[[ICLR 2024](https://openreview.net/forum?id=NzxCMe88HX)]\
+[[Code](https://github.com/xavihart/Diff-Protect)]
 
 
+
+
+
+----------------
 
 
 **Detecting, Explaining, and Mitigating Memorization in Diffusion Models**\
