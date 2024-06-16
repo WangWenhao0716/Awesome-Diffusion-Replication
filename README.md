@@ -251,7 +251,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Code](https://github.com/wljLlla/PEI_Code)]
 
 # Understanding
-![image](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/understanding.png)
+<img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/understanding.png" width="1000">
 
 
 
