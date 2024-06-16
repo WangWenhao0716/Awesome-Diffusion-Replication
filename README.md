@@ -20,7 +20,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 # Contents
 - [Unveiling](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#unveiling)
   - [Prompting](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#prompting)
-    - [Specific](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-specific)
+    - [Specific](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#-specific)
     - [Implicit](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-implicit)
   - [Membership inference](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#membership-inference)
     - [White box](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#%EF%B8%8F-white-box)
