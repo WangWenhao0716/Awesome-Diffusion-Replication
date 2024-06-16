@@ -3,11 +3,11 @@
 
 *Note that some papers may cover more than 1 aspect.*
 
-## Contact
+# Contact
 
 If we miss your awesome paper(s) on memorization and replication in diffusion models, please feel free to open an issue or contact Wenhao Wang (wangwenhao0716@gmail.com).
 
-## Citation
+# Citation
 ```
 @article{wang2024memorization,
   title={Memorization and Replication in Diffusion Models: A Survey and Outlook},
@@ -16,10 +16,48 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
   year={2024}
 }
 ```
-## Unveiling
+# Unveiling
 ![image](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png)
 
+## Prompting
 
+### Specific
+
+### Implicit
+
+## Membership inference
+
+### White-box
+
+### Black-box
+
+## Similarity retrieval
+
+### Content similarity
+
+### Style similarity
+
+## Watermarking
+
+## Proactive replication
+
+### Fine-tuning
+
+### Training-free
+
+## Novel perspectives
+
+### Magnitude of noise
+
+### Training data attribution
+
+### Cross attention
+
+### Fine-tune to leak
+
+### Overfitted MAE
+
+### Property inference
 
 **Red-Teaming the Stable Diffusion Safety Filter**\
 [[NeurIPSW 2022](https://arxiv.org/abs/2210.04610)]
