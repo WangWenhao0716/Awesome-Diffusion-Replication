@@ -220,15 +220,37 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 ### Magnitude of noise
 
+**Detecting, Explaining, and Mitigating Memorization in Diffusion Models**\
+[[ICLR 2024](https://openreview.net/forum?id=84n3UwkH7b)]
+[[Code](https://github.com/YuxinWenRick/diffusion_memorization)]
+
 ### Training data attribution
+**Evaluating Data Attribution for Text-to-Image Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Evaluating_Data_Attribution_for_Text-to-Image_Models_ICCV_2023_paper.pdf)]
+
+**The Journey, Not the Destination: How Data Guides Diffusion Models**\
+[[ICMLW 2023](https://openreview.net/pdf?id=9hK9NbUAex)]
+[[Code](https://github.com/MadryLab/journey-TRAK)]
 
 ### Cross attention
+**Unveiling and Mitigating Memorization in Text-to-image Diffusion Models through Cross Attention**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.11052)]
 
 ### Fine-tune to leak
+**Shake to Leak: Fine-tuning Diffusion Models Can Amplify the Generative Privacy Risk**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.09450)]
 
 ### Overfitted MAE
+**Detecting Generative Parroting through Overfitting Masked Autoencoders**\
+[[CVPRW 2024](https://arxiv.org/abs/2403.19050)]
 
 ### Property inference
+**Property Existence Inference against Generative Models**\
+[[USENIX 2024](https://www.usenix.org/system/files/sec24fall-prepub-2868-wang-lijin.pdf)]
+[[Code](https://github.com/wljLlla/PEI_Code)]
+
+
+
 
 **Red-Teaming the Stable Diffusion Safety Filter**\
 [[NeurIPSW 2022](https://arxiv.org/abs/2210.04610)]
