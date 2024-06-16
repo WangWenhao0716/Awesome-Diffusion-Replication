@@ -334,23 +334,97 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Code](https://github.com/LabForComputationalVision/memorization_generalization_in_diffusion_models)]
 
 ### Data-(in)dependent
+**On the Generalization Properties of Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=hCUG1MCFk5)]
 
 ### Mutual information
+**On the Generalization of Diffusion Model**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.14712)]
 
 ### Creativity
+**Can AI Be as Creative as Humans?**\
+[[Arxiv 2024](https://arxiv.org/abs/2401.01623)]
+[[Project](https://ai-relative-creativity.github.io/)]
 
 ## Humanities
-
 ### Regulation
+**Generative Artificial Intelligence and Copyright Law**\
+[[CRS Report](https://crsreports.congress.gov/product/pdf/LSB/LSB10922)]
+
+**AI and Law: The Next Generation**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580739)]
+
+**Foundation Models and Fair Use**\
+[[Arxiv 2023](https://arxiv.org/abs/2303.15715)]
+
+**Generative AI meets copyright**\
+[[Science](https://www.science.org/doi/abs/10.1126/science.adi0656)]
+
+**Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain**\
+[[CSLAW 2024](https://dl.acm.org/doi/10.1145/3614407.3643696)]
+
+**Generative AI Art: Copyright Infringement and Fair Use**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4483539)]
+
+**Copyright Safety for Generative AI**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438593)]
+
+**How Generative AI Turns Copyright Upside Down**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517702)]
+
+**Analyzing Copyright Infringement by Artificial Intelligence: The Case of the Diffusion Model**\
+[[AJHSS 2023](https://francis-press.com/papers/10096)]
+
+**The Files are in the Computer: Copyright, Memorization, and Generative AI**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.12590)]
+
+**The Economics of Copyright in the Digital Age**\
+[[CESifo](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608809)]
+
+**Can Copyright be Reduced to Privacy?**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.14822)]
 
 ### Art
 
+**Understanding the Influence of Artificial Intelligence Art on Transaction in the Art World**\
+[[Theses 2023](https://repository.ihu.edu.gr/xmlui/handle/11544/30356)]
+
+**AI Art and its Impact on Artists**\
+[[AIES 2023](https://dl.acm.org/doi/10.1145/3600211.3604681)]
+
+**Art and the science of generative AI**\
+[[Science 2023](https://www.science.org/doi/10.1126/science.adh4451)]
+
+**Can There be Art Without an Artist?**\
+[[NeurIPSW 2022](https://arxiv.org/abs/2209.07667)]
+
+**AI Art: Artists’ Best Friend or Mortal Enemy?**\
+[[Essay 2023](https://digitalcommons.augustana.edu/libraryprize/13/)]
+
+**Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.08030)]
+
+**Legal guide for the visual artist**\
+[[SS 2022](https://books.google.com.au/books?hl=en&lr=&id=OAlJEAAAQBAJ&oi=fnd&pg=PT9&dq=Legal+guide+for+the+visual+artist&ots=T5K7731RK8&sig=LlOj4r8xZbAf33gTP-E2LnN-Aks#v=onepage&q=Legal%20guide%20for%20the%20visual%20artist&f=false)]
+
 ### Society
+**Stable Bias: Evaluating Societal Representations in Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=qVXYU3F017)]
+
+**Analyzing Bias in Diffusion-based Face Generation Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.06402)]
+
+**Auditing Gender Presentation Differences in Text-to-Image Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2302.03675)]
+[[Project](https://salt-nlp.github.io/GEP/)]
+
+**Stable Diffusion Exposed: Gender Bias from Prompt to Image**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.03027)]
 
 
 
-**Red-Teaming the Stable Diffusion Safety Filter**\
-[[NeurIPSW 2022](https://arxiv.org/abs/2210.04610)]
+
+
 
 
 
