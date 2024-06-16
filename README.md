@@ -17,6 +17,10 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 }
 ```
 ## Unveiling
+![image](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replicatio/blob/main/unveil.png)
+
+
+
 **Red-Teaming the Stable Diffusion Safety Filter**\
 [[NeurIPSW 2022](https://arxiv.org/abs/2210.04610)]
 
