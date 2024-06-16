@@ -116,7 +116,39 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 
 ### Content similarity
 
+**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/somepago/DCR)] 
+
+**Generation or Replication: Auscultating Audio Latent Diffusion Models**\
+[[ICASSP 2024](https://ieeexplore.ieee.org/document/10447705)]
+[[Project](https://www.merl.com/research/highlights/auscultating-diffusion)]
+
+**Frame by Familiar Frame: Understanding Replication in Video Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2403.19593)]
+
+**CopyScope: Model-level Copyright Infringement Quantification in the Diffusion Workflow**\
+[[Arxiv 2023](https://arxiv.org/abs/2311.12847)]
+
+**DeepfakeArt Challenge: A Benchmark Dataset for Generative AI Art Forgery and Data Poisoning Detection**\
+[[Arxiv 2023](https://arxiv.org/abs/2306.01272)]
+[[Code](https://github.com/h-aboutalebi/DeepfakeArt)]
+
+**CGI-DM: Digital Copyright Authentication for Diffusion Models via Contrasting Gradient Inversion**\
+[[CVPR 2024](https://arxiv.org/abs/2403.11162)]
+[[Code](https://github.com/Nicholas0228/Revelio)]
+
 ### Style similarity
+**Measuring Style Similarity in Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.01292)]
+[[Code](https://github.com/learn2phoenix/CSD)]
+
+**AnyPattern: Towards In-context Image Copy Detection**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.13788)]
+[[Project](https://anypattern.github.io/)]
+
+**Measuring the Success of Diffusion Models at Imitating Human Artists**\
+[[ICMLW 2023](https://arxiv.org/abs/2307.04028)]
 
 ## Watermarking
 
