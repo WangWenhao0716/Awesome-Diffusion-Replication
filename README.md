@@ -18,6 +18,22 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 ```
 
 # Contents
+- [Unveiling](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#unveiling)
+  - [Prompting](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#prompting)
+    - [Specific](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-specific)
+    - [Implicit](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-implicit)
+  - [Membership inference](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#membership-inference)
+    - [White box](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-white-box)
+    - [Black box](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-black-box)
+  - [Similarity retrieval](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#similarity-retrieval)
+    - [Content similarity](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-content-similarity)
+    - [Style similarity](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-style-similarity)
+  - [Watermarking](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#-watermarking)
+  - [Proactive replication](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#-proactive-replication)
+    - [Fine-tuning](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-fine-tuning)
+    - [Training-free](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#%EF%B8%8F-training-free)
+  - [Novel perspectives](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/edit/main/README.md#novel-perspectives)
+
 
 # Unveiling
 <img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png" width="1000">
