@@ -39,7 +39,27 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
     - [Fine-tune to leak](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#fine-tune-to-leak)
     - [Overfitted MAE](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#overfitted-mae)
     - [Property inference](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#property-inference)
-
+- [Understanding](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#understanding)
+  - [Data](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#data)
+    - [Insufficient training data](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#insufficient-training-data)
+    - [Image duplication](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#image-duplication)
+    - [Misleading captions](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#misleading-captions)
+    - [Data types](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#data-types)
+  - [Methods](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#methods)
+    - [Deterministic sampler](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#deterministic-sampler)
+    - [Model capacity](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#model-capacity)
+    - [New metrics](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#new-metrics)
+  - [Theory](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#theory)
+    - [Near access-freeness](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#near-access-freeness)
+    - [Dichotomy](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#dichotomy)
+    - [Geometry-adaptive](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#geometry-adaptive)
+    - [Data-(in)dependent](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#data-(in)dependent)
+    - [Mutual information](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#mutual-information)
+    - [Creativity](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#creativity)
+  - [Humanitiesi](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#humanitiesi)
+    - [Regulation](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#regulation)
+    - [Art](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#art)
+    - [Society](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#society)
 
 # Unveiling
 <img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png" width="1000">
