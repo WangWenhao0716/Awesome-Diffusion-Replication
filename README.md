@@ -17,7 +17,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 }
 ```
 ## Unveiling
-![image](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replicatio/blob/main/unveil.png)
+![image](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png)
 
 
 
