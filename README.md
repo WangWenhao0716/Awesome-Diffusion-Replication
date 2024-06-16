@@ -293,18 +293,45 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 ## Methods
 
 ### Deterministic sampler
+**On the Generalization of Diffusion Model**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.14712)]
+
+**The Emergence of Reproducibility and Consistency in Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2310.05264)]
 
 ### Model capacity
+**Understanding and Mitigating Copying in Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=HtMXRGbUMt)]
+[[Code](https://github.com/somepago/DCR)]
+
+**Towards Memorization-Free Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.00922)]
 
 ### New metrics
+**Feature likelihood score: Evaluating the generalization of generative models using samples**\
+[[NeurIPS 2023](https://openreview.net/forum?id=l2VKZkolT7)]
+[[Code](https://github.com/marcojira/fld)]
 
+**Measuring Forgetting of Memorized Training Examples**\
+[[ICLR 2023](https://openreview.net/forum?id=7bJizxLKrR)]
+
+**A Good Score Does not Lead to A Good Generative Model**\
+[[Arxiv 2024](https://arxiv.org/abs/2401.04856)]
 ## Theory
 
 ### Near access-freeness
+**On Provable Copyright Protection for Generative Models**\
+[[ICML 2023](https://openreview.net/forum?id=qRAHZVnQNY)]
 
 ### Dichotomy
+**Diffusion Probabilistic Models Generalize when They Fail to Memorize**\
+[[ICMLW 2023](https://openreview.net/forum?id=shciCbSk9h)]
+
 
 ### Geometry-adaptive
+**Generalization in diffusion models arises from geometry-adaptive harmonic representations**\
+[[ICLR 2024](https://openreview.net/forum?id=ANvmVS2Yr0)]
+[[Code](https://github.com/LabForComputationalVision/memorization_generalization_in_diffusion_models)]
 
 ### Data-(in)dependent
 
