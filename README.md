@@ -11,7 +11,7 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 ```
 @article{wang2024memorization,
   title={Memorization and Replication in Diffusion Models: A Survey and Outlook},
-  author={Wang, Wenhao and xxx},
+  author={Wang, Wenhao and Sun, Yifan and Hu, Zhengdong and Tan, Zhentao and Yang, Yi},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2024}
 }
@@ -72,8 +72,45 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 ## Membership inference
 
 ### White-box
+**An Efficient Membership Inference Attack for the Diffusion Model by Proximal Initialization**\
+[[ICLR 2024](https://openreview.net/forum?id=rpH9FcCEV6)]
+[[Code](https://github.com/kong13661/PIA)]
+
+**Loss and Likelihood Based Membership Inference of Diffusion Models**\
+[[ISC 2023](https://link.springer.com/chapter/10.1007/978-3-031-49187-0_7)]
+
+**Membership Inference Attacks against Diffusion Models**\
+[[SPW 2023](https://ieeexplore.ieee.org/document/10188618)]
+
+**White-box Membership Inference Attacks against Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2308.06405)]
+[[Code](https://github.com/py85252876/GSA)]
+
+**Membership Inference Attacks on Diffusion Models via Quantile Regression** \
+[[Arxiv 2023](https://arxiv.org/abs/2312.05140)]
 
 ### Black-box
+**Membership Inference Attacks against Diffusion Models**\
+[[SPW 2023](https://ieeexplore.ieee.org/document/10188618)]
+
+**Membership Inference Attacks Against Text-to-image Generation Models**\
+[[Arxiv 2022](https://arxiv.org/pdf/2210.00968)]
+
+**A Probabilistic Fluctuation based Membership Inference Attack for Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2308.12143)]
+
+**Set–Membership Inference Attacks using Data Watermarking**\
+[[Arxiv 2023](https://arxiv.org/abs/2307.15067)]
+
+**Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models**\
+[[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Generated_Distributions_Are_All_You_Need_for_Membership_Inference_Attacks_WACV_2024_paper.pdf)]
+
+**Black-box Membership Inference Attacks against Fine-tuned Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.08207)]
+
+**Towards More Realistic Membership Inference Attacks on Large Diffusion Models**\
+[[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Dubinski_Towards_More_Realistic_Membership_Inference_Attacks_on_Large_Diffusion_Models_WACV_2024_paper.pdf)]
+
 
 ## Similarity retrieval
 
