@@ -256,12 +256,39 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 ## Data
 
 ### Insufficient training data
+**On Memorization in Diffusion Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2310.02664)]
+[[Code](https://github.com/sail-sg/DiffMemorize)]
 
 ### Image duplication
+**Understanding and Mitigating Copying in Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=HtMXRGbUMt)]
+[[Code](https://github.com/somepago/DCR)]
+
+**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**\
+[[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)]
+[[Code](https://github.com/somepago/DCR)] 
+
+**Towards Memorization-Free Diffusion Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.00922)]
 
 ### Misleading captions
+**Understanding and Mitigating Copying in Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=HtMXRGbUMt)]
+[[Code](https://github.com/somepago/DCR)]
+
+**Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.03692)]
+
+**On memorization in diffusion models**
+[[Arxiv 2023](https://arxiv.org/abs/2310.02664)]
+
+**Understanding Data Replication in Diffusion Models**\
+[[ICMLW 2023](https://openreview.net/forum?id=F9qCNPSzSY)]
 
 ### Data types
+**Outliers Memorized Last: Trends in Memorization of Diffusion Models Based on Training Distribution and Epoch**\
+[[Openreview 2024](https://openreview.net/forum?id=6ZuDeSHzjj)]
 
 ## Methods
 
