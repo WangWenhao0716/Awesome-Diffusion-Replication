@@ -10,7 +10,7 @@ If we miss your awesome paper(s) on replication in diffusion models, please feel
 # Citation
 ```
 @article{wang2024memorization,
-  title={Memorization and Replication in Diffusion Models: A Survey and Outlook},
+  title={Replication in Diffusion Models: A Survey and Outlook},
   author={Wang, Wenhao and Sun, Yifan and Yang, Zongxin, and Hu, Zhengdong and Tan, Zhentao and Yang, Yi},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2024}
