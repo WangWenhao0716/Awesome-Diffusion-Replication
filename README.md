@@ -1,4 +1,4 @@
-# Awesome-Diffusion-Memorization-Replication
+# Awesome-Diffusion-Replication
 :fire::fire: This repository contains a collection of papers on **replication** in diffusion models. We divide the replication phenomenon into 3 aspects: **unveiling**, **understanding**, and **mitigation**. We also provide papers focusing on its real-world influence. 
 
 *Note that some papers may cover more than 1 aspect.*
