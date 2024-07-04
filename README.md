@@ -1,17 +1,17 @@
 # Awesome-Diffusion-Memorization-Replication
-:fire::fire: This repository contains a collection of papers on **memorization and replication** in diffusion models. We divide the phenomenon of memorization and replication into 3 aspects: **unveiling**, **understanding**, and **mitigation**. We also provide papers discussing such phenomena in **medical imaging**.
+:fire::fire: This repository contains a collection of papers on **replication** in diffusion models. We divide the replication phenomenon into 3 aspects: **unveiling**, **understanding**, and **mitigation**. We also provide papers focusing on its real-world influence. 
 
 *Note that some papers may cover more than 1 aspect.*
 
 # Contact
 
-If we miss your awesome paper(s) on memorization and replication in diffusion models, please feel free to open an issue or contact Wenhao Wang (wangwenhao0716@gmail.com).
+If we miss your awesome paper(s) on replication in diffusion models, please feel free to open an issue or contact Wenhao Wang (wangwenhao0716@gmail.com).
 
 # Citation
 ```
 @article{wang2024memorization,
   title={Memorization and Replication in Diffusion Models: A Survey and Outlook},
-  author={Wang, Wenhao and Sun, Yifan and Hu, Zhengdong and Tan, Zhentao and Yang, Yi},
+  author={Wang, Wenhao and Sun, Yifan and Yang, Zongxin, and Hu, Zhengdong and Tan, Zhentao and Yang, Yi},
   journal={arXiv preprint arXiv:xxxx.xxxxx},
   year={2024}
 }
@@ -56,10 +56,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
     - [Data-(in)dependent](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#data-(in)dependent)
     - [Mutual information](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#mutual-information)
     - [Creativity](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#creativity)
-  - [Humanities](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#humanities)
-    - [Regulation](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#regulation)
-    - [Art](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#art)
-    - [Society](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#society)
 - [Mitigation](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#Mitigation)
   - [Training data optimization](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#Training-data-optimization)
     - [Deduplication](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#Deduplication)
@@ -73,7 +69,11 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
     - [Model immunizing](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#Model-immunizing)
     - [Low-rank adaptation](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#Low-rank-adaptation)
     - [Despecification guidance](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#Despecification-guidance)
-- [Medical imaging](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#Medical-imaging)
+- [Influence](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#influence)
+    - [Regulation](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#regulation)
+    - [Art](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#art)
+    - [Society](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#society)
+    - [Healthcare](https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/README.md#healthcare)
 # Unveiling
 <img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/unveil.png" width="1000">
 
@@ -401,81 +401,6 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 [[Arxiv 2024](https://arxiv.org/abs/2401.01623)]
 [[Project](https://ai-relative-creativity.github.io/)]
 
-## Humanities
-### Regulation
-**Generative Artificial Intelligence and Copyright Law**\
-[[CRS Report](https://crsreports.congress.gov/product/pdf/LSB/LSB10922)]
-
-**AI and Law: The Next Generation**\
-[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580739)]
-
-**Foundation Models and Fair Use**\
-[[Arxiv 2023](https://arxiv.org/abs/2303.15715)]
-
-**Generative AI meets copyright**\
-[[Science](https://www.science.org/doi/abs/10.1126/science.adi0656)]
-
-**Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain**\
-[[CSLAW 2024](https://dl.acm.org/doi/10.1145/3614407.3643696)]
-
-**Generative AI Art: Copyright Infringement and Fair Use**\
-[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4483539)]
-
-**Copyright Safety for Generative AI**\
-[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438593)]
-
-**How Generative AI Turns Copyright Upside Down**\
-[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517702)]
-
-**Analyzing Copyright Infringement by Artificial Intelligence: The Case of the Diffusion Model**\
-[[AJHSS 2023](https://francis-press.com/papers/10096)]
-
-**The Files are in the Computer: Copyright, Memorization, and Generative AI**\
-[[Arxiv 2024](https://arxiv.org/abs/2404.12590)]
-
-**The Economics of Copyright in the Digital Age**\
-[[CESifo](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608809)]
-
-**Can Copyright be Reduced to Privacy?**\
-[[Arxiv 2023](https://arxiv.org/abs/2305.14822)]
-
-### Art
-
-**Understanding the Influence of Artificial Intelligence Art on Transaction in the Art World**\
-[[Theses 2023](https://repository.ihu.edu.gr/xmlui/handle/11544/30356)]
-
-**AI Art and its Impact on Artists**\
-[[AIES 2023](https://dl.acm.org/doi/10.1145/3600211.3604681)]
-
-**Art and the science of generative AI**\
-[[Science 2023](https://www.science.org/doi/10.1126/science.adh4451)]
-
-**Can There be Art Without an Artist?**\
-[[NeurIPSW 2022](https://arxiv.org/abs/2209.07667)]
-
-**AI Art: Artists’ Best Friend or Mortal Enemy?**\
-[[Essay 2023](https://digitalcommons.augustana.edu/libraryprize/13/)]
-
-**Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models**\
-[[Arxiv 2024](https://arxiv.org/abs/2404.08030)]
-
-**Legal guide for the visual artist**\
-[[SS 2022](https://books.google.com.au/books?hl=en&lr=&id=OAlJEAAAQBAJ&oi=fnd&pg=PT9&dq=Legal+guide+for+the+visual+artist&ots=T5K7731RK8&sig=LlOj4r8xZbAf33gTP-E2LnN-Aks#v=onepage&q=Legal%20guide%20for%20the%20visual%20artist&f=false)]
-
-### Society
-**Stable Bias: Evaluating Societal Representations in Diffusion Models**\
-[[NeurIPS 2023](https://openreview.net/forum?id=qVXYU3F017)]
-
-**Analyzing Bias in Diffusion-based Face Generation Models**\
-[[Arxiv 2023](https://arxiv.org/abs/2305.06402)]
-
-**Auditing Gender Presentation Differences in Text-to-Image Models**\
-[[Arxiv 2023](https://arxiv.org/abs/2302.03675)]
-[[Project](https://salt-nlp.github.io/GEP/)]
-
-**Stable Diffusion Exposed: Gender Bias from Prompt to Image**\
-[[Arxiv 2023](https://arxiv.org/abs/2312.03027)]
-
 
 # Mitigation
 <img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/mitigation.png" width="1000">
@@ -733,10 +658,85 @@ If we miss your awesome paper(s) on memorization and replication in diffusion mo
 **Towards Memorization-Free Diffusion Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2404.00922)]
 
+# Influence
 
-# Medical imaging
+<img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/influence.png" width="1000">
 
-<img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/medical.png" width="1000">
+## Regulation
+**Generative Artificial Intelligence and Copyright Law**\
+[[CRS Report](https://crsreports.congress.gov/product/pdf/LSB/LSB10922)]
+
+**AI and Law: The Next Generation**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4580739)]
+
+**Foundation Models and Fair Use**\
+[[Arxiv 2023](https://arxiv.org/abs/2303.15715)]
+
+**Generative AI meets copyright**\
+[[Science](https://www.science.org/doi/abs/10.1126/science.adi0656)]
+
+**Talkin' 'Bout AI Generation: Copyright and the Generative-AI Supply Chain**\
+[[CSLAW 2024](https://dl.acm.org/doi/10.1145/3614407.3643696)]
+
+**Generative AI Art: Copyright Infringement and Fair Use**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4483539)]
+
+**Copyright Safety for Generative AI**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438593)]
+
+**How Generative AI Turns Copyright Upside Down**\
+[[SSRN 2023](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4517702)]
+
+**Analyzing Copyright Infringement by Artificial Intelligence: The Case of the Diffusion Model**\
+[[AJHSS 2023](https://francis-press.com/papers/10096)]
+
+**The Files are in the Computer: Copyright, Memorization, and Generative AI**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.12590)]
+
+**The Economics of Copyright in the Digital Age**\
+[[CESifo](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4608809)]
+
+**Can Copyright be Reduced to Privacy?**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.14822)]
+
+## Art
+
+**Understanding the Influence of Artificial Intelligence Art on Transaction in the Art World**\
+[[Theses 2023](https://repository.ihu.edu.gr/xmlui/handle/11544/30356)]
+
+**AI Art and its Impact on Artists**\
+[[AIES 2023](https://dl.acm.org/doi/10.1145/3600211.3604681)]
+
+**Art and the science of generative AI**\
+[[Science 2023](https://www.science.org/doi/10.1126/science.adh4451)]
+
+**Can There be Art Without an Artist?**\
+[[NeurIPSW 2022](https://arxiv.org/abs/2209.07667)]
+
+**AI Art: Artists’ Best Friend or Mortal Enemy?**\
+[[Essay 2023](https://digitalcommons.augustana.edu/libraryprize/13/)]
+
+**Rethinking Artistic Copyright Infringements in the Era of Text-to-Image Generative Models**\
+[[Arxiv 2024](https://arxiv.org/abs/2404.08030)]
+
+**Legal guide for the visual artist**\
+[[SS 2022](https://books.google.com.au/books?hl=en&lr=&id=OAlJEAAAQBAJ&oi=fnd&pg=PT9&dq=Legal+guide+for+the+visual+artist&ots=T5K7731RK8&sig=LlOj4r8xZbAf33gTP-E2LnN-Aks#v=onepage&q=Legal%20guide%20for%20the%20visual%20artist&f=false)]
+
+## Society
+**Stable Bias: Evaluating Societal Representations in Diffusion Models**\
+[[NeurIPS 2023](https://openreview.net/forum?id=qVXYU3F017)]
+
+**Analyzing Bias in Diffusion-based Face Generation Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2305.06402)]
+
+**Auditing Gender Presentation Differences in Text-to-Image Models**\
+[[Arxiv 2023](https://arxiv.org/abs/2302.03675)]
+[[Project](https://salt-nlp.github.io/GEP/)]
+
+**Stable Diffusion Exposed: Gender Bias from Prompt to Image**\
+[[Arxiv 2023](https://arxiv.org/abs/2312.03027)]
+
+## Healthcare
 
 **Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**\
 [[MICCAIW](https://dl.acm.org/doi/abs/10.1007/978-3-031-53767-7_6)]
