@@ -3,6 +3,9 @@
 
 *Note that some papers may cover more than 1 aspect.*
 
+# Abstract
+Visual diffusion models have revolutionized the field of creative AI, producing high-quality and diverse content. However, they inevitably memorize training images or videos, subsequently replicating their concepts, content, or styles during inference. This phenomenon raises significant concerns about privacy, security, and copyright within generated outputs. In this survey, we provide the first comprehensive review of replication in visual diffusion models, marking a novel contribution to the field by systematically categorizing the existing studies into unveiling, understanding, and mitigating this phenomenon. Specifically, unveiling mainly refers to the methods used to detect replication instances. Understanding involves analyzing the underlying mechanisms and factors that contribute to this phenomenon. Mitigation focuses on developing strategies to reduce or eliminate replication. Beyond these aspects, we also review papers focusing on its real-world influence. For instance, in the context of healthcare, replication is critically worrying due to privacy concerns related to patient data. Finally, the paper concludes with a discussion of the ongoing challenges, such as the difficulty in detecting and benchmarking replication, and outlines future directions including the development of more robust mitigation techniques. By synthesizing insights from diverse studies, this paper aims to equip researchers and practitioners with a deeper understanding at the intersection between AI technology and social good. 
+
 # Contact
 
 If we miss your awesome paper(s) on replication in diffusion models, please feel free to open an issue or contact Wenhao Wang (wangwenhao0716@gmail.com).
