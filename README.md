@@ -1,5 +1,5 @@
 # Awesome-Diffusion-Replication
-:fire::fire: This repository contains a collection of papers on **replication** in diffusion models. We divide the replication phenomenon into 3 aspects: **unveiling**, **understanding**, and **mitigation**. We also provide papers focusing on its real-world influence. 
+:fire::fire: This repository contains a collection of papers on **replication** in visual diffusion models. We divide the replication phenomenon into 3 aspects: **unveiling**, **understanding**, and **mitigation**. We also provide papers focusing on its real-world influence. 
 
 *Note that some papers may cover more than 1 aspect.*
 
@@ -8,7 +8,7 @@ Visual diffusion models have revolutionized the field of creative AI, producing 
 
 # Contact
 
-If we miss your awesome paper(s) on replication in diffusion models, please feel free to open an issue or contact Wenhao Wang (wangwenhao0716@gmail.com).
+If we miss your awesome paper(s) on replication in visual diffusion models, please feel free to open an issue or contact Wenhao Wang (wangwenhao0716@gmail.com).
 
 # Citation
 ```
