@@ -148,6 +148,10 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 **Membership Inference Attacks on Diffusion Models via Quantile Regression** \
 [[Arxiv 2023](https://arxiv.org/abs/2312.05140)]
 
+
+**White-box Membership Inference Attacks against Diffusion Models**\
+[[PoPETs 2025](https://petsymposium.org/popets/2025/popets-2025-0068.php)]
+
 ### Black-box
 **Membership Inference Attacks against Diffusion Models**\
 [[SPW 2023](https://ieeexplore.ieee.org/document/10188618)]
@@ -169,6 +173,22 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 
 **Towards More Realistic Membership Inference Attacks on Large Diffusion Models**\
 [[WACV 2024](https://openaccess.thecvf.com/content/WACV2024/papers/Dubinski_Towards_More_Realistic_Membership_Inference_Attacks_on_Large_Diffusion_Models_WACV_2024_paper.pdf)]
+
+
+**Noise as a Probe: Membership Inference Attacks on Diffusion Models Leveraging Initial Noise**\
+[[Arxiv 2026](https://arxiv.org/abs/2601.21628)]
+
+**Temporal Membership Inference Attack Method on Diffusion Model**\
+[[JCRD 2026](https://crad.ict.ac.cn/en/article/cstr/32373.14.issn1000-1239.202440687)]
+
+**Dual-Model Defense: Safeguarding Diffusion Models from Membership Inference Attacks through Disjoint Data Splitting**\
+[[Arxiv 2025](https://arxiv.org/abs/2410.16657)]
+
+**Membership Inference Attacks Against Fine-tuned Diffusion Language Models**\
+[[Arxiv 2026](https://arxiv.org/abs/2601.20125)]
+
+**Detecting and Mitigating Memorization in Diffusion Models through Anisotropy of the Log-Probability**\
+[[Arxiv 2026](https://arxiv.org/abs/2601.20642)]
 
 
 ## Similarity retrieval
@@ -222,6 +242,22 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 
 **Steal My Artworks for Fine-tuning? A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**\
 [[Arxiv 2023](https://arxiv.org/abs/2311.13619)]
+
+
+**VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking**\
+[[ICLR 2025](https://arxiv.org/abs/2501.14195)]
+
+**Watermarking for AI Content Detection: A Review on Text, Visual, and Audio Modalities**\
+[[Arxiv 2025](https://arxiv.org/abs/2504.03765)]
+
+**Missing the Mark: Adoption of Watermarking for Generative AI**\
+[[Arxiv 2025](https://arxiv.org/abs/2503.18156)]
+
+**PhaseMark: A Post-hoc, Optimization-Free Watermarking of AI-generated Images in the Latent Frequency Domain**\
+[[Arxiv 2026](https://arxiv.org/abs/2601.13128)]
+
+**Lossless Copyright Protection via Intrinsic Model Fingerprinting**\
+[[Arxiv 2026](https://arxiv.org/abs/2601.21252)]
 
 ## Proactive replication
 
@@ -308,6 +344,21 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 [[USENIX 2024](https://www.usenix.org/system/files/sec24fall-prepub-2868-wang-lijin.pdf)]
 [[Code](https://github.com/wljLlla/PEI_Code)]
 
+
+### Bright ending attention
+**Exploring Local Memorization in Diffusion Models via Bright Ending Attention**\
+[[ICLR 2025 Spotlight](https://arxiv.org/abs/2410.21665)]
+
+### Data attribution (scalable)
+**Influence Functions for Scalable Data Attribution in Diffusion Models**\
+[[ICLR 2025 Oral](https://arxiv.org/abs/2410.13850)]
+
+**Diffusion Attribution Score: Evaluating Training Data Influence in Diffusion Models**\
+[[ICLR 2025 Spotlight](https://arxiv.org/abs/2410.18639)]
+
+**Nonparametric Data Attribution for Diffusion Models**\
+[[Arxiv 2025](https://arxiv.org/abs/2510.14269)]
+
 # Understanding
 <img src="https://github.com/WangWenhao0716/Awesome-Diffusion-Memorization-Replication/blob/main/understanding.png" width="1000">
 
@@ -375,6 +426,13 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 
 **A Good Score Does not Lead to A Good Generative Model**\
 [[Arxiv 2024](https://arxiv.org/abs/2401.04856)]
+
+**An Inversion-based Measure of Memorization for Diffusion Models**\
+[[ICCV 2025](https://arxiv.org/abs/2405.05846)]
+
+**Classifier-Free Guidance inside the Attraction Basin May Cause Memorization**\
+[[CVPR 2025](https://arxiv.org/abs/2411.16738)]
+
 ## Theory
 
 ### Near access-freeness
@@ -403,6 +461,39 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 **Can AI Be as Creative as Humans?**\
 [[Arxiv 2024](https://arxiv.org/abs/2401.01623)]
 [[Project](https://ai-relative-creativity.github.io/)]
+
+
+### Implicit dynamical regularization
+**Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training**\
+[[NeurIPS 2025 Best Paper](https://arxiv.org/abs/2505.17638)]
+
+### Overestimation dynamics
+**How Diffusion Models Memorize**\
+[[Arxiv 2025](https://arxiv.org/abs/2509.25705)]
+
+### Balanced representation
+**Generalization of Diffusion Models Arises with a Balanced Representation Space**\
+[[Arxiv 2025](https://arxiv.org/abs/2512.20963)]
+
+### Reproduction quantification
+**Quantifying the Ease of Reproducing Training Data in Unconditional Diffusion Models**\
+[[Arxiv 2025](https://arxiv.org/abs/2503.19429)]
+
+### Ambient diffusion for creativity
+**Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion**\
+[[ICML 2025](https://arxiv.org/abs/2502.21278)]
+
+### Memorization in 3D
+**Memorization in 3D Generative Models**\
+[[Arxiv 2025](https://arxiv.org/abs/2512.23628)]
+
+### Score smoothing
+**Smoothing the Score Function for Generalization in Diffusion Models**\
+[[Arxiv 2026](https://arxiv.org/abs/2601.19285)]
+
+### Memorization in diffusion language models
+**Characterizing Memorization in Diffusion Language Models**\
+[[Arxiv 2026](https://arxiv.org/abs/2603.02333)]
 
 
 # Mitigation
@@ -513,6 +604,22 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 [[Code](https://github.com/xavihart/Diff-Protect)]
 
 
+
+**Differentially Private Fine-Tuning of Diffusion Models**\
+[[ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Tsai_Differentially_Private_Fine-Tuning_of_Diffusion_Models_ICCV_2025_paper.html)]
+
+**Enhancing Privacy-Preserving Data Synthesis Utility with Two-Stage Diffusion Models**\
+[[Information Sciences 2025](https://www.sciencedirect.com/science/article/abs/pii/S002002552501076X)]
+
+**LightShed: Defeating Perturbation-based Image Copyright Protections**\
+[[USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/presentation/foerster)]
+
+**CopyrightShield: Enhancing Diffusion Model Security against Copyright Infringement Attacks**\
+[[ICCV 2025](https://arxiv.org/abs/2412.01528)]
+
+**CopyJudge: Automated Copyright Infringement Identification and Mitigation in Text-to-Image Diffusion Models**\
+[[ACM MM 2025](https://arxiv.org/abs/2502.15278)]
+
 ### Purification
 **CommonCanvas: An Open Diffusion Model Trained with Creative-Commons Images**\
 [[NeurIPSW 2023](https://neurips.cc/virtual/2023/74893)]
@@ -621,6 +728,43 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 [[Arxiv 2024](https://arxiv.org/abs/2404.13706)]
 [[Project](https://cs-people.bu.edu/vpetsiuk/arc/)]
 
+
+**Data Unlearning in Diffusion Models**\
+[[ICLR 2025](https://arxiv.org/abs/2503.01034)]
+
+**The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models**\
+[[CVPR 2025](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html)]
+
+**Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts**\
+[[ICCV 2025](https://arxiv.org/abs/2410.12777)]
+
+**T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models**\
+[[Arxiv 2025](https://arxiv.org/abs/2505.17550)]
+
+**Towards Irreversible Machine Unlearning for Diffusion Models**\
+[[Arxiv 2025](https://arxiv.org/abs/2512.03564)]
+
+**JailbreakDiffBench: A Comprehensive Benchmark for Jailbreaking Diffusion Models**\
+[[ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_JailbreakDiffBench_A_Comprehensive_Benchmark_for_Jailbreaking_Diffusion_Models_ICCV_2025_paper.pdf)]
+
+**Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning**\
+[[ICCV 2025](https://arxiv.org/abs/2410.05664)]
+
+**Side Effects of Erasing Concepts from Diffusion Models**\
+[[EMNLP 2025](https://aclanthology.org/2025.findings-emnlp.810/)]
+
+**Differential Vector Erasure: Unified Training-Free Concept Erasure for Flow Matching Models**\
+[[Arxiv 2026](https://arxiv.org/abs/2602.01089)]
+
+**Unlearning the Unpromptable: Prompt-free Instance Unlearning in Diffusion Models**\
+[[Arxiv 2026](https://arxiv.org/abs/2603.10445)]
+
+**Forget Many, Forget Right: Scalable and Precise Concept Unlearning in Diffusion Models**\
+[[Arxiv 2026](https://arxiv.org/abs/2601.06162)]
+
+**Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection**\
+[[Arxiv 2026](https://arxiv.org/abs/2603.13070)]
+
 ## Prompt disturbing
 **Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**\
 [[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Schramowski_Safe_Latent_Diffusion_Mitigating_Inappropriate_Degeneration_in_Diffusion_Models_CVPR_2023_paper.pdf)]
@@ -660,6 +804,19 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 ### Despecification guidance
 **Towards Memorization-Free Diffusion Models**\
 [[Arxiv 2024](https://arxiv.org/abs/2404.00922)]
+
+
+### Replication-aware architecture
+**LoyalDiffusion: A Diffusion Model Guarding Against Data Replication**\
+[[Arxiv 2025](https://arxiv.org/abs/2412.01118)]
+
+### Anti-memorization guidance
+**Mitigating Data Replication in Text-to-Audio Generative Diffusion Models through Anti-Memorization Guidance**\
+[[Arxiv 2025](https://arxiv.org/abs/2509.14934)]
+
+### Privacy-utility enhancement
+**Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models**\
+[[CVPR 2025](https://arxiv.org/abs/2504.18032)]
 
 # Influence
 
@@ -702,6 +859,19 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 **Can Copyright be Reduced to Privacy?**\
 [[Arxiv 2023](https://arxiv.org/abs/2305.14822)]
 
+
+**The EU's Artificial Intelligence Act and Copyright**\
+[[JWIP 2025](https://onlinelibrary.wiley.com/doi/10.1111/jwip.12330)]
+
+**Generative AI, Copyright and the AI Act**\
+[[Computer Law & Security Review 2025](https://www.sciencedirect.com/science/article/pii/S0267364925000020)]
+
+**Copyright and Artificial Intelligence, Part 2: Copyrightability**\
+[[U.S. Copyright Office 2025](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf)]
+
+**Getty Images v. Stability AI -- UK High Court Judgment**\
+[[EWHC 2025](https://www.judiciary.uk/wp-content/uploads/2025/11/Getty-Images-v-Stability-AI.pdf)]
+
 ## Art
 
 **Understanding the Influence of Artificial Intelligence Art on Transaction in the Art World**\
@@ -739,6 +909,37 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 **Stable Diffusion Exposed: Gender Bias from Prompt to Image**\
 [[Arxiv 2023](https://arxiv.org/abs/2312.03027)]
 
+
+**Easily Accessible Text-to-Image Generation Amplifies Demographic Stereotypes at Large Scale**\
+[[FAccT 2023](https://dl.acm.org/doi/10.1145/3593013.3594095)]
+
+**DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Cho_DALL-Eval_Probing_the_Reasoning_Skills_and_Social_Biases_of_Text-to-Image_ICCV_2023_paper.html)]
+
+**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**\
+[[CVPR 2024 Highlight](https://openaccess.thecvf.com/content/CVPR2024/html/DInca_OpenBias_Open-set_Bias_Detection_in_Text-to-Image_Generative_Models_CVPR_2024_paper.html)]
+
+**Would Deep Generative Models Amplify Bias in Future Models?**\
+[[CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Would_Deep_Generative_Models_Amplify_Bias_in_Future_Models_CVPR_2024_paper.html)]
+
+**OASIS Uncovers: High-Quality T2I Models, Same Old Stereotypes**\
+[[ICLR 2025 Spotlight](https://arxiv.org/abs/2501.00962)]
+
+**Finetuning Text-to-Image Diffusion Models for Fairness**\
+[[ICLR 2024](https://openreview.net/forum?id=hnrB5YHoYu)]
+
+**Editing Implicit Assumptions in Text-to-Image Diffusion Models**\
+[[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Orgad_Editing_Implicit_Assumptions_in_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)]
+
+**Dissecting and Mitigating Diffusion Bias via Mechanistic Interpretability**\
+[[CVPR 2025](https://arxiv.org/abs/2503.20483)]
+
+**Debiasing Diffusion Model: Enhancing Fairness through Latent Representation Learning**\
+[[Arxiv 2025](https://arxiv.org/abs/2503.12536)]
+
+**Investigating Toxicity and Bias in Stable Diffusion Text-to-Image Models**\
+[[Scientific Reports 2025](https://www.nature.com/articles/s41598-025-12032-4)]
+
 ## Healthcare
 
 **Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis**\
@@ -759,5 +960,12 @@ If we miss your awesome paper(s) on replication in visual diffusion models, plea
 **Brain tumor segmentation using synthetic MR images - a comparison of GANs and diffusion models**\
 [[Scientific Data](https://www.nature.com/articles/s41597-024-03073-x)]
 
+**On Differentially Private 3D Medical Image Synthesis with Controllable Latent Diffusion Models**\
+[[Arxiv 2025](https://arxiv.org/abs/2407.16405)]
 
+**Rethinking Privacy in Medical Imaging AI: From Metadata and Pixel-Level Identification Risks to Federated Learning and Synthetic Data Challenges**\
+[[Radiology: AI 2026](https://pubs.rsna.org/doi/10.1148/ryai.250273)]
+
+**Investigating Memorization in Video Diffusion Models**\
+[[Arxiv 2025](https://arxiv.org/abs/2410.21669)]
 
